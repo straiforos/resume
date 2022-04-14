@@ -1,67 +1,64 @@
 {
-    "basics": {
-      "name": "Stephen Traiforos",
-      "label": "Senior Software Engineer",
-      "image": "",
-      "email": "stephen@traiforos.com",
-      "phone": "(508) 494-5048",
-      "url": "https://traiforos.com",
-      "summary": "",
-      "location": {
-        "postalCode": "MA 01752",
-        "city": "Marlborough",
-        "countryCode": "US",
-        "region": "Massachusetts"
-      },
-      "profiles": [{
+  "basics": {
+    "name": "Stephen G. C. Traiforos",
+    "label": "Senior Software Engineer",
+    "image": "",
+    "email": "stephen@traiforos.com",
+    "phone": "(508) 494-5048",
+    "url": "https://traiforos.com",
+    "summary": "Passionate full stack engineer seeking a highly collaborative team environment with a variety of architectures and technical challenges. Self driven developer with a proven track record of providing innovative solutions while leading by example through a thoughtful understanding of the customer experience, business priorities, and market opportunity.",
+    "location": {
+      "postalCode": "MA 01752",
+      "city": "Marlborough",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
         "network": "LinkedIn",
         "username": "straiforos",
         "url": ""
-      }]
-    },
-    "work": [{
+      }
+    ]
+  },
+  "work": [
+    {
       "name": "Trimble",
       "position": "Senior Software Eningeer",
       "url": "https://trimble.com",
       "startDate": "2021-11-23",
       "summary": "STARS at Trimble... TODO",
-      "highlights": [
-        "STARS - Situtation, Task, Action Result(s)"
-    ]
+      "highlights": ["STARS - Situtation, Task, Action Result(s)"]
     },
     {
-        "name": "Traiforce Group LLC",
-        "position": "Founder, Independant Contractor",
-        "url": "https://traiforos.com",
-        "startDate": "2021-11-23",
-        "summary": "",
-        "highlights": [
-          "STARS - Situtation, Task, Action Result(s)"
-        ]
-      },
-      {
-          "name": "Triverus LLC",
-          "position": "Associate Consultant",
-          "url": "https://triverusconsulting.com",
-          "startDate": "2019-03-01",
-          "endDate": "2020-06-31",
-          "summary": "",
-          "highlights": [
-            "STARS - Situtation, Task, Action Result(s)"
-        ]
-        },
-        {
-            "name": "Kuebix LLC",
-            "position": "Software Engineer",
-            "url": "https://kuebix.com",
-            "startDate": "2017-10-09",
-            "endDate": "2019-02-28",
-            "summary": "",
-            "highlights": [
-              "STARS - Situtation, Task, Action Result(s)"
-          ]
-          }],
-    "education": [{
+      "name": "Traiforce Group LLC",
+      "position": "Founder, Independant Contractor",
+      "url": "https://traiforos.com",
+      "startDate": "2021-11-23",
+      "summary": "",
+      "highlights": ["STARS - Situtation, Task, Action Result(s)"]
+    },
+    {
+      "name": "Triverus LLC",
+      "position": "Associate Consultant",
+      "url": "https://triverusconsulting.com",
+      "startDate": "2019-03-01",
+      "endDate": "2020-06-31",
+      "summary": "",
+      "highlights": ["STARS - Situtation, Task, Action Result(s)"]
+    },
+    {
+      "name": "Kuebix LLC",
+      "position": "Software Engineer",
+      "url": "https://kuebix.com",
+      "startDate": "2017-10-09",
+      "endDate": "2019-02-28",
+      "summary": "",
+      "highlights": ["STARS - Situtation, Task, Action Result(s)"]
+    }
+  ],
+  "education": [
+    {
       "institution": "Worcester State University",
       "url": "https://institution.com/",
       "area": "Software Development",
@@ -73,37 +70,77 @@
         "Cloud computing",
         "Data mining"
       ]
-    }],
-    "skills": [{
-      "name": "Application Engineer",
+    }
+  ],
+  "skills": [
+    {
+      "name": "Fullstack Engineer",
       "level": "Master",
       "keywords": [
         "HTML",
         "CSS",
-        "JavaScript"
+        "JavaScript",
+        "Typescript",
+        "C#",
+        "Java",
+        "Spring Boot",
+        ".Net Core",
+        "React",
+        "Angular",
+        "Vue"
       ]
-    }],
-    "interests": [{
+    },
+    {
+      "name": "Component Libraries",
+      "level": "Master",
+      "keywords": ["Dev Extreme", "Material UI", "Prime NG"]
+    },
+    {
+      "name": "Azure",
+      "level": "Intermediate",
+      "keywords": ["Pipelines", "Team Foundation Server"]
+    },
+    {
+      "name": "AWS",
+      "level": "Master",
+      "keywords": ["S3", "Kinesis", "SQS", "Lambda", "Parameter Store"]
+    },
+    {
+      "name": "Interactive Developer Environment(s)",
+      "level": "Master",
+      "keywords": ["VS Code"]
+    },
+    {
+      "name": "Database Management",
+      "level": "Intermediate",
+      "keywords": [
+        "JPA",
+        "Entity Framework .Net Core",
+        "Mongo",
+        "PostgreSQL",
+        "MS SQL"
+      ]
+    }
+  ],
+  "interests": [
+    {
       "name": "Coffee",
       "keywords": [
         "Esspresso",
         "Cappuccino",
         "Super Automatic Esspresso Machine"
       ]
-    }]
-    "projects": [{
+    }
+  ],
+  "projects": [
+    {
       "name": "Defintely Typed Shopify Types",
       "description": "Type defintion for beta and v1 of the Shopify SDK",
-      "keywords": [
-        "Typscript",
-        "Shopify",
-        "Shopify SDK"
-      ],
+      "keywords": ["Typscript", "Shopify", "Shopify SDK"],
       "url": "https://github.com/straiforos/DefinitelyTyped/tree/shopify-buy-v1/types/shopify-buy",
-      "roles": [
-        "Maintainer"
-      ],
+      "roles": ["Maintainer"],
       "entity": "DefinitelyTyped",
       "type": "library"
-    }]
-  }
+    }
+  ]
+}
