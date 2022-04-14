@@ -1,0 +1,12 @@
+{
+  "name": "straiforce-resume",
+  "version": "1.0.0",
+  "description": "Stephen Traiforos's Resume",
+  "main": "index.js",
+  "repository": "https://github.com/straiforos/resume.git",
+  "author": "straiforos <stephen@traiforos.com>",
+  "license": "MIT",
+  "dependencies": {
+    "resume-cli": "^3.0.6"
+  }
+}
