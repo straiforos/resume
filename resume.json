@@ -17,19 +17,11 @@
       {
         "network": "LinkedIn",
         "username": "straiforos",
-        "url": ""
+        "url": "https://www.linkedin.com/in/stephen-traiforos/"
       }
     ]
   },
   "work": [
-    {
-      "name": "Trimble",
-      "position": "Senior Software Eningeer",
-      "url": "https://trimble.com",
-      "startDate": "2021-11-23",
-      "summary": "STARS at Trimble... TODO",
-      "highlights": ["STARS - Situtation, Task, Action Result(s)"]
-    },
     {
       "name": "Traiforce Group LLC",
       "position": "Founder, Independant Contractor",
