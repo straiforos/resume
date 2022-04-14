@@ -1,8 +1,7 @@
 {
   "basics": {
-    "name": "Stephen G. C. Traiforos",
+    "name": "Stephen Traiforos",
     "label": "Senior Software Engineer",
-    "image": "",
     "email": "stephen@traiforos.com",
     "phone": "(508) 494-5048",
     "summary": "Passionate full stack engineer seeking a highly collaborative team environment with a variety of architectures and technical challenges. Self driven developer with a proven track record of providing innovative solutions while leading by example through a thoughtful understanding of the customer experience, business priorities, and market opportunity.",
@@ -23,11 +22,11 @@
   "work": [
     {
       "name": "Traiforce Group LLC",
+      "company": "Traiforce Group LLC",
       "position": "Founder, Independant Contractor",
       "url": "https://traiforos.com",
       "startDate": "2021-11-23",
       "endDate": "2022",
-      "summary": "",
       "highlights": [
         "Maintained various Angular applications, generated diagrams and documents for cross pollination and handoff.",
         "Collaborated with colleagues to implement micro frontend applications.",
@@ -38,11 +37,11 @@
     },
     {
       "name": "Triverus LLC",
+      "company": "Triverus LLC",
       "position": "Associate Consultant",
       "url": "https://triverusconsulting.com",
       "startDate": "2019-03-01",
-      "endDate": "2020-06-31",
-      "summary": "",
+      "endDate": "2020-06-30",
       "highlights": [
         "Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles.",
         "Extended an established Java based near real time reporting architecture for ELearning platform deployed in AWS.  Integrated various serverless, microservice and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification.",
@@ -52,11 +51,11 @@
     },
     {
       "name": "Kuebix LLC",
+      "company": "Kuebix LLC",
       "position": "Software Engineer",
       "url": "https://kuebix.com",
       "startDate": "2017-10-09",
       "endDate": "2019-02-28",
-      "summary": "",
       "highlights": [
         "Developed Salesforce API extension taking advantage of remote action calls, resulting in cost reduction and development acceleration. Embedding client-side applications; utilizing Knockout JS, Angular JS, and Angular 8 with state management.",
         "Implemented batch processing for bulk shipping rate quotes within Java Spring Boot environment, merging data from multiple sources. Syncing results into Salesforce while respecting strict API limitations.",
