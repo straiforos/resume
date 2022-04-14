@@ -36,7 +36,13 @@
       "url": "https://traiforos.com",
       "startDate": "2021-11-23",
       "summary": "",
-      "highlights": ["STARS - Situtation, Task, Action Result(s)"]
+      "highlights": [
+        "Maintained various Angular applications, generated diagrams and documents for cross pollination and handoff.",
+        "Collaborated with colleagues to implement micro frontend applications.",
+        "Guided and learned with others, utilizing React ecosystem experience, enabling others to do their best work.",
+        "Spanned the application and platform stack to guide contract based development for rapid iteration.",
+        "Member of an agile team supporting major software platform functionality, working as an individual contributor."
+      ]
     },
     {
       "name": "Triverus LLC",
@@ -45,7 +51,12 @@
       "startDate": "2019-03-01",
       "endDate": "2020-06-31",
       "summary": "",
-      "highlights": ["STARS - Situtation, Task, Action Result(s)"]
+      "highlights": [
+        "Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles.",
+        "Extended an established Java based near real time reporting architecture for ELearning platform deployed in AWS.  Integrated various serverless, microservice and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification.",
+        "Optimized React.JS/.Net Core Entity Framework based healthcare platform resulting in 50% page load time reduction through the separation of database and business logic layers, allowing for metrics and telemetry to be introduced.",
+        "Automated 40+ business processes into an enterprise class application for a state government agency. Collaborated with government statisticians, reducing average process execution time from 3 months to 2 minutes."
+      ]
     },
     {
       "name": "Kuebix LLC",
@@ -54,15 +65,19 @@
       "startDate": "2017-10-09",
       "endDate": "2019-02-28",
       "summary": "",
-      "highlights": ["STARS - Situtation, Task, Action Result(s)"]
+      "highlights": [
+        "Developed Salesforce API extension taking advantage of remote action calls, resulting in cost reduction and development acceleration. Embedding client-side applications; utilizing Knockout JS, Angular JS, and Angular 8 with state management.",
+        "Implemented batch processing for bulk shipping rate quotes within Java Spring Boot environment, merging data from multiple sources. Syncing results into Salesforce while respecting strict API limitations.",
+        "SCRUM master, mitigating impediments to story completion, ensuring stakeholder feedback is incorporated appropriately and signed off. Advocated for teammates, identifying strengths and weaknesses for task assignment, leading to increase of team productivity and cohesion. Analyzed sprint metrics to ensure appropriate client expectations, ensuring risk identification and mitigation."
+      ]
     }
   ],
   "education": [
     {
       "institution": "Worcester State University",
-      "url": "https://institution.com/",
-      "area": "Software Development",
-      "studyType": "Bachelor",
+      "url": "https://www.worcester.edu/",
+      "area": "Computer Science: Software Development",
+      "studyType": "Bachelors of Science",
       "score": "3.4",
       "courses": [
         "Database security",
@@ -130,6 +145,21 @@
         "Cappuccino",
         "Super Automatic Esspresso Machine"
       ]
+    },
+    {
+      "name": "Cats",
+      "keywords": [
+        "Sweet Pea Kitty Baby Princess",
+        "Halo",
+        "Lily",
+        "Archie",
+        "Cleo",
+        "Sterling"
+      ]
+    },
+    {
+      "name": "Gardening",
+      "keywords": ["Roses", "Dalias", "Berries", "General Landscaping"]
     }
   ],
   "projects": [
