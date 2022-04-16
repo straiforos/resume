@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Stephen Traiforos",
-    "label": "Senior Software Engineer",
+    "label": "Fullstack Software Engineer",
     "email": "stephen@traiforos.com",
     "phone": "(508) 494-5048",
     "summary": "Passionate full stack engineer seeking a highly collaborative team environment with a variety of architectures and technical challenges. Self driven developer with a proven track record of providing innovative solutions while leading by example through a thoughtful understanding of the customer experience, business priorities, and market opportunity.",
@@ -23,12 +23,12 @@
     {
       "name": "Traiforce Group LLC",
       "company": "Traiforce Group LLC",
-      "position": "Founder, Independant Contractor",
+      "position": "Founder, Independent Contractor",
       "url": "https://traiforos.com",
       "startDate": "2021-11-23",
       "endDate": "2022",
       "highlights": [
-        "Maintained various Angular applications, generated diagrams and documents for cross pollination and handoff.",
+        "Maintained various React applications, generated diagrams and documents for cross pollination and handoff.",
         "Collaborated with colleagues to implement micro frontend applications.",
         "Guided and learned with others, utilizing React ecosystem experience, enabling others to do their best work.",
         "Spanned the application and platform stack to guide contract based development for rapid iteration.",
