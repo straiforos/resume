@@ -93,7 +93,8 @@
         ".Net Core",
         "React",
         "Angular",
-        "Vue"
+        "Vue",
+        "Kuebernetes"
       ]
     },
     {
@@ -125,6 +126,15 @@
         "Mongo",
         "PostgreSQL",
         "MS SQL"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Intermediate",
+      "keywords": [
+        "Linux",
+        "Windows",
+        "MacOS"
       ]
     }
   ],
