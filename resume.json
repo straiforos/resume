@@ -94,7 +94,9 @@
         "React",
         "Angular",
         "Vue",
-        "Kuebernetes"
+        "Kuebernetes",
+        "Vulnerbility scaners: Snyk",
+        "OWASP"
       ]
     },
     {
@@ -160,7 +162,7 @@
     },
     {
       "name": "Gardening",
-      "keywords": ["Roses", "Dalias", "Berries", "General Landscaping", "Citrus Trees"]
+      "keywords": ["Roses", "Dalias", "Berries", "General Landscaping", "Citrus"]
     }
   ],
   "projects": [
