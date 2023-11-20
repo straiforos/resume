@@ -6,8 +6,8 @@
     "phone": "(508) 494-5048",
     "summary": "Passionate full stack engineer seeking a highly collaborative team environment with a variety of architectures and technical challenges. Self driven developer with a proven track record of providing innovative solutions while leading by example through a thoughtful understanding of the customer experience, business priorities, and market opportunity.",
     "location": {
-      "postalCode": "MA 01752",
-      "city": "Marlborough",
+      "postalCode": "MA 02119",
+      "city": "Roxbury",
       "countryCode": "US",
       "region": "Massachusetts"
     },
@@ -20,6 +20,21 @@
     ]
   },
   "work": [
+    {
+      "name": "Nymbl Systems",
+      "company": "Nymbl Systems",
+      "position": "Senior Software Engineer",
+      "url": "https://nymblsystems.healthcare",
+      "startDate": "2022-06-22",
+      "endDate": null,
+      "highlights": [
+        "Migrated significant portions of the application from angular js to Angular 16.",
+        "Collaborated with colleagues to implement code style and standards for a mutlimodule typescript application.",
+        "Guided and learned with others Angular best practices in a Enterprise setting",
+        "Fullstack developer supporting frontend developers with API contract and behavior updates.",
+        "Lead team of frontend software engineers to make major improvements throughout the architecture and overall functionality, supporting my colleagues in their strengths and finding the right person for their weaknesses."
+      ]
+    },
     {
       "name": "Traiforce Group LLC",
       "company": "Traiforce Group LLC",
