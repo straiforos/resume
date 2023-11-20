@@ -26,7 +26,7 @@
       "position": "Senior Software Engineer",
       "url": "https://nymblsystems.healthcare",
       "startDate": "2022-06-22",
-      "endDate": null,
+      "endDate": "2024",
       "highlights": [
         "Migrated significant portions of the application from angular js to Angular 16.",
         "Collaborated with colleagues to implement code style and standards for a mutlimodule typescript application.",
