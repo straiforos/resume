@@ -54,7 +54,8 @@
         "Spanned the application and platform stack to guide contract based development for rapid iteration.",
         "Member of an agile team supporting major software platform functionality, working as an individual contributor.",
         "Extended logging with DataDog to support tracing between our microservices for metrics and debugging.",
-        "Implemented Backend For Frontend Architecture, utilizing Kafka as a messaging service between view services."
+        "Implemented Backend For Frontend Architecture, utilizing Kafka as a messaging service between view services.",
+        "Integrated PrintNode's web-socket connection to support real-time scale data for a scan-to-ship app."
       ]
     },
     {
