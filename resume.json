@@ -197,15 +197,6 @@
   ],
   "projects": [
     {
-      "name": "Defintely Typed Shopify Types",
-      "description": "Type defintion for beta and v1 of the Shopify SDK",
-      "keywords": ["TypeScript", "Shopify", "Shopify SDK"],
-      "url": "https://github.com/straiforos/DefinitelyTyped/tree/shopify-buy-v1/types/shopify-buy",
-      "roles": ["Maintainer"],
-      "entity": "DefinitelyTyped",
-      "type": "TypeScript Types"
-    },
-    {
       "name": "Open API Rental API",
       "description": "HATEOAS Focused Paging and Sorting Rental API",
       "keywords": ["Open API", "API First Development", "HATEOAS"],
@@ -213,6 +204,15 @@
       "role": ["Creator"],
       "entity": "Traiforce Group LLC",
       "type": "Open API yaml" 
+    },
+    {
+      "name": "Defintely Typed Shopify Types",
+      "description": "Type defintion for beta and v1 of the Shopify SDK",
+      "keywords": ["TypeScript", "Shopify", "Shopify SDK"],
+      "url": "https://github.com/straiforos/DefinitelyTyped/tree/shopify-buy-v1/types/shopify-buy",
+      "roles": ["Maintainer"],
+      "entity": "DefinitelyTyped",
+      "type": "TypeScript Types"
     }
   ]
 }
