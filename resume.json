@@ -84,6 +84,33 @@
         "Implemented batch processing for bulk shipping rate quotes within Java Spring Boot environment, merging data from multiple sources. Syncing results into Salesforce while respecting strict API limitations.",
         "SCRUM master, mitigating impediments to story completion, ensuring stakeholder feedback is incorporated appropriately and signed off. Advocated for teammates, identifying strengths and weaknesses for task assignment, leading to increase of team productivity and cohesion. Analyzed sprint metrics to ensure appropriate client expectations, ensuring risk identification and mitigation."
       ]
+    },
+    {
+      "name": "WorkHuman (Formerly Globoforce)",
+      "company": "WorkHuman (Formerly Globoforce)",
+      "position": "Systems ERP Intern",
+      "url": "https://www.workhuman.com",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-31",
+      "highlights": [
+        "Demonstrated quick self-directed learning by reading over 500 pages of documentation to build a development environment.",
+        "Applied numerous operating system concepts and learned the intricacies of Epicor Architecture, including its limitations.",
+        "Executed and documented the creation of a local Epicor development environment running on a virtual machine.",
+        "Gained comprehensive knowledge in various aspects of Windows Server 2012, configuring application pools for SQL instances and application servers."
+      ]
+    },    
+    {
+      "name": "WorkHuman (Formerly Globoforce)",
+      "company": "WorkHuman (Formerly Globoforce)",
+      "position": "Fulfillment Administrator",
+      "url": "https://www.workhuman.com",
+      "startDate": "2013-06-01",
+      "endDate": "2017-10-31",
+      "highlights": [
+        "Introduced new technologies to scale our processes through cross-organizational collaboration. Implemented FTP automation, SQL generating templates, MS Office Macros, and PGP Encryption using PGP Desktop.",
+        "Vetted vendors to identify industrial printing equipment and software, resulting in a savings of over $100,000.",
+        "Developed macros/tools using VBA, Scala, and SQL syntax which reduced turnaround time by 60X. Streamlined MS Excel and MS Word transformation, enabling the team to focus on more critical tasks to ensure a great customer experience."
+      ]
     }
   ],
   "education": [
