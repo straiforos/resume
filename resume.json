@@ -103,7 +103,7 @@
   "skills": [
     {
       "name": "Fullstack Engineer",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "HTML",
         "CSS",
@@ -123,27 +123,27 @@
     },
     {
       "name": "Component Libraries",
-      "level": "Master",
+      "level": "",
       "keywords": ["Dev Extreme", "Material UI", "Prime NG"]
     },
     {
       "name": "Azure",
-      "level": "Intermediate",
+      "level": "",
       "keywords": ["Pipelines", "Team Foundation Server"]
     },
     {
       "name": "AWS",
-      "level": "Master",
+      "level": "",
       "keywords": ["S3", "Kinesis", "SQS", "Lambda", "Parameter Store"]
     },
     {
       "name": "Interactive Developer Environment(s)",
-      "level": "Master",
+      "level": "",
       "keywords": ["VS Code", "InteliJ"]
     },
     {
       "name": "Database Management",
-      "level": "Master",
+      "level": "",
       "keywords": [
         "JPA",
         "Entity Framework .Net Core",
@@ -154,7 +154,7 @@
     },
     {
       "name": "Operating Systems",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Linux",
         "Windows",
