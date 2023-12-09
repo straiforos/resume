@@ -203,7 +203,16 @@
       "url": "https://github.com/straiforos/DefinitelyTyped/tree/shopify-buy-v1/types/shopify-buy",
       "roles": ["Maintainer"],
       "entity": "DefinitelyTyped",
-      "type": "library"
+      "type": "TypeScript Types"
+    },
+    {
+      "name": "Open API Rental API",
+      "description": "",
+      "keywords": ["Open API", "API First Development"],
+      "url": "https://github.com/straiforos/openapi-rentals-api",
+      "role": ["Creator"],
+      "entity": "Traiforce Group LLC",
+      "type": "Open API yaml" 
     }
   ]
 }
