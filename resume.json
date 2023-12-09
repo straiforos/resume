@@ -199,7 +199,7 @@
     {
       "name": "Defintely Typed Shopify Types",
       "description": "Type defintion for beta and v1 of the Shopify SDK",
-      "keywords": ["Typscript", "Shopify", "Shopify SDK"],
+      "keywords": ["TypeScript", "Shopify", "Shopify SDK"],
       "url": "https://github.com/straiforos/DefinitelyTyped/tree/shopify-buy-v1/types/shopify-buy",
       "roles": ["Maintainer"],
       "entity": "DefinitelyTyped",
