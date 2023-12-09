@@ -1,6 +1,7 @@
 {
   "basics": {
     "name": "Stephen Traiforos",
+    "image": "https://gateway.pinata.cloud/ipfs/QmcF6uFBrzFprmTfaLyfLuz2AVf8daRMyMYsCG3BY9kYE5",
     "label": "Fullstack Software Engineer",
     "email": "stephen@traiforos.com",
     "phone": "(508) 494-5048",
@@ -28,11 +29,11 @@
       "startDate": "2022-06-22",
       "endDate": "2024",
       "highlights": [
-        "Migrated significant portions of the application from angular js to Angular 16.",
-        "Collaborated with colleagues to implement code style and standards for a mutlimodule typescript application.",
-        "Guided and learned with others Angular best practices in a Enterprise setting",
-        "Fullstack developer supporting frontend developers with API contract and behavior updates.",
-        "Lead team of frontend software engineers to make major improvements throughout the architecture and overall functionality, supporting my colleagues in their strengths and finding the right person for their weaknesses."
+        "Led the migration of key application components from AngularJS to Angular 16.",
+        "Collaborated on establishing code style and standards for a multi-module TypeScript application.",
+        "Mentored in Angular best practices within an enterprise environment.",
+        "Provided full-stack development support, focusing on API contract and behavior updates for frontend developers.",
+        "Directed a team of frontend engineers, enhancing architecture and functionality, while leveraging team strengths and effectively allocating resources."
       ]
     },
     {
@@ -47,7 +48,9 @@
         "Collaborated with colleagues to implement micro frontend applications.",
         "Guided and learned with others, utilizing React ecosystem experience, enabling others to do their best work.",
         "Spanned the application and platform stack to guide contract based development for rapid iteration.",
-        "Member of an agile team supporting major software platform functionality, working as an individual contributor."
+        "Member of an agile team supporting major software platform functionality, working as an individual contributor.",
+        "Extended logging with DataDog to support tracing between our microservices for metrics and debugging.",
+        "Implemented Backend For Frontend Architecture, utilizing Kafka as a messaging service between view services."
       ]
     },
     {
