@@ -207,8 +207,8 @@
     },
     {
       "name": "Open API Rental API",
-      "description": "",
-      "keywords": ["Open API", "API First Development"],
+      "description": "HATEOAS Focused Paging and Sorting Rental API",
+      "keywords": ["Open API", "API First Development", "HATEOAS"],
       "url": "https://github.com/straiforos/openapi-rentals-api",
       "role": ["Creator"],
       "entity": "Traiforce Group LLC",
