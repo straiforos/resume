@@ -21,6 +21,11 @@
         "network": "GitHub",
         "username": "straiforos",
         "url": "https://github.com/straiforos"
+      },
+      {
+        "network": "Medium",
+        "username": "triforce",
+        "url": "https://triforce.medium.com"
       }
     ]
   },
@@ -43,9 +48,9 @@
     {
       "name": "Traiforce Group LLC",
       "company": "Traiforce Group LLC",
-      "position": "Founder, Independent Contractor",
+      "position": "Independent Contractor",
       "url": "mailto:stephen@traiforos.com",
-      "startDate": "2021-11-23",
+      "startDate": "2020-11-23",
       "endDate": "2022-06-22",
       "highlights": [
         "Maintained various React applications, generated diagrams and documents for cross pollination and handoff.",
@@ -80,7 +85,7 @@
       "startDate": "2017-10-09",
       "endDate": "2019-02-28",
       "highlights": [
-        "Developed Salesforce API extension taking advantage of remote action calls, resulting in cost reduction and development acceleration. Embedding client-side applications; utilizing Knockout JS, Angular JS, and Angular 8 with state management.",
+        "Developed Salesforce API extension taking advantage of remote action calls, resulting in cost reduction and development acceleration. Embedding client-side applications; utilizing Knockout JS, Angular JS, and Angular 8 with state management, leveraged ngrok to debug production environments.",
         "Implemented batch processing for bulk shipping rate quotes within Java Spring Boot environment, merging data from multiple sources. Syncing results into Salesforce while respecting strict API limitations.",
         "SCRUM master, mitigating impediments to story completion, ensuring stakeholder feedback is incorporated appropriately and signed off. Advocated for teammates, identifying strengths and weaknesses for task assignment, leading to increase of team productivity and cohesion. Analyzed sprint metrics to ensure appropriate client expectations, ensuring risk identification and mitigation."
       ]
