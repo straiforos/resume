@@ -129,6 +129,7 @@
         "Database security",
         "Application development",
         "Cloud computing",
+        "Distributed Systems",
         "Data mining"
       ]
     }
@@ -172,7 +173,7 @@
     {
       "name": "Interactive Developer Environment(s)",
       "level": "",
-      "keywords": ["VS Code", "InteliJ"]
+      "keywords": ["VS Code", "InteliJ", "Cursor"]
     },
     {
       "name": "Database Management",
@@ -199,7 +200,7 @@
       "name": "IoT",
       "level": "",
       "keywords": [
-        "openHAB",
+        "openHAB", 
         "Home Assistant"
       ]
     }
