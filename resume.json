@@ -17,7 +17,8 @@
         "network": "LinkedIn",
         "username": "straiforos",
         "url": "https://www.linkedin.com/in/stephen-traiforos/"
-      },{
+      },
+      {
         "network": "GitHub",
         "username": "straiforos",
         "url": "https://github.com/straiforos"
@@ -103,7 +104,7 @@
         "Executed and documented the creation of a local Epicor development environment running on a virtual machine.",
         "Gained comprehensive knowledge in various aspects of Windows Server 2012, configuring application pools for SQL instances and application servers."
       ]
-    },    
+    },
     {
       "name": "WorkHuman (Formerly Globoforce)",
       "company": "WorkHuman (Formerly Globoforce)",
@@ -190,19 +191,12 @@
     {
       "name": "Operating Systems",
       "level": "",
-      "keywords": [
-        "Linux",
-        "Windows",
-        "MacOS"
-      ]
+      "keywords": ["Linux", "Windows", "MacOS"]
     },
     {
       "name": "IoT",
       "level": "",
-      "keywords": [
-        "openHAB", 
-        "Home Assistant"
-      ]
+      "keywords": ["openHAB", "Home Assistant"]
     }
   ],
   "interests": [
@@ -227,18 +221,42 @@
     },
     {
       "name": "Doggos",
-      "keywords": [
-        "Alaska Floof",
-        "Miss. Kye",
-        "Logi Bear"
-      ]
+      "keywords": ["Alaska Floof", "Miss. Kye", "Logi Bear"]
     },
     {
       "name": "Gardening",
-      "keywords": ["Roses", "Dalias", "Peonies", "Berries", "General Landscaping", "Citrus"]
+      "keywords": [
+        "Roses",
+        "Dalias",
+        "Peonies",
+        "Berries",
+        "General Landscaping",
+        "Citrus"
+      ]
     }
   ],
   "projects": [
+    {
+      "name": "Kathys' Getaway Vacation",
+      "description": "HATEOAS Focused Paging and Sorting Rental API/UI Implementation",
+      "keywords": [
+        "Interface first development",
+        "Open API",
+        "Spring Boot",
+        "Angular application",
+        "Java 17",
+        "Mapstruct",
+        "Lombok",
+        "PostgreSQL",
+        "GitLab",
+        "Sentry",
+        "Gitpod.io"
+      ],
+      "role": ["Creator"],
+      "entity": "Traiforce Group LLC",
+      "url": "https://gitlab.com/traiforce-group-development-team/kathysgetaway",
+      "type": "Web application"
+    },
     {
       "name": "Open API Rental API",
       "description": "HATEOAS Focused Paging and Sorting Rental API",
@@ -246,7 +264,7 @@
       "url": "https://github.com/straiforos/openapi-rentals-api",
       "role": ["Creator"],
       "entity": "Traiforce Group LLC",
-      "type": "Open API yaml" 
+      "type": "Open API yaml"
     },
     {
       "name": "Defintely Typed Shopify Types",
