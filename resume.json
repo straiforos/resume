@@ -39,11 +39,10 @@
       "startDate": "2022-06-22",
       "endDate": "2024",
       "highlights": [
-        "Led the migration of key application components from AngularJS to Angular 16.",
-        "Collaborated on establishing code style and standards for a multi-module TypeScript application.",
+        "Led the migration of key application components from AngularJS to Angular 16, enhancing performance, functionality, and reducing maintenance cost.",
+        "Collaborated on establishing code style and standards for a multi-module TypeScript application, resulting in improved code quality and efficiency.",
         "Mentored in Angular best practices within an enterprise environment.",
-        "Provided full-stack development support, focusing on API contract and behavior updates for frontend developers.",
-        "Directed a team of frontend engineers, enhancing architecture and functionality, while leveraging team strengths and effectively allocating resources."
+        "Provided full-stack development support, focusing on API contract and behavior updates for frontend colleagues."
       ]
     },
     {
