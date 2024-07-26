@@ -168,7 +168,7 @@
     {
       "name": "AWS",
       "level": "",
-      "keywords": ["S3", "Kinesis", "SQS", "Lambda", "Parameter Store"]
+      "keywords": ["Parameter Store", "EC2", "Route 53" , "S3", "SQS", "Lambda", "Kinesis" ]
     },
     {
       "name": "Interactive Developer Environment(s)",
