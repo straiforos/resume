@@ -70,10 +70,11 @@
       "startDate": "2019-03-01",
       "endDate": "2020-06-30",
       "highlights": [
-        "Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles.",
-        "Extended an established Java based near real time reporting architecture for ELearning platform deployed in AWS.  Integrated various serverless, microservice and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification.",
-        "Optimized React.JS/.Net Core Entity Framework based healthcare platform resulting in 50% page load time reduction through the separation of database and business logic layers, allowing for metrics and telemetry to be introduced.",
-        "Automated 40+ business processes into an enterprise class application for a state government agency. Collaborated with government statisticians, reducing average process execution time from 3 months to 2 minutes."
+        "Architected a configurable process dashboard using MVVM, integrated with Active Directory for authentication, and implemented a three-tier deployment model.",
+        "Rearchitected a React.JS/.Net Core Entity Framework-based healthcare platform, resulting in a 50% reduction in page load time by separating database and business logic layers, allowing for metrics and telemetry to be introduced.",
+        "Extended an established Java-based near real-time reporting architecture for an eLearning platform deployed in AWS. Integrated various serverless, microservice, and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification.",
+        "Automated 40+ business processes for a state government agency, reducing execution time from 3 months to 2 minutes by collaborating with government statisticians.",
+        "Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles."
       ]
     },
     {
