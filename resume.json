@@ -39,7 +39,7 @@
       "startDate": "2022-06-22",
       "endDate": "2024",
       "highlights": [
-        "Architected APIs for autopopulating regulated forms, coordinated with frontend colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
+        "Architected APIs for auto populating regulated forms, coordinated with frontend colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
         "Led the migration of key application components from AngularJS to Angular 16, enhancing performance, functionality, and reducing maintenance cost.",
         "Collaborated on establishing code style and standards for a multi-module TypeScript application, resulting in improved code quality and efficiency.",
         "Mentored in Angular best practices within an enterprise environment."
