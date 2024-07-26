@@ -53,14 +53,13 @@
       "startDate": "2020-11-23",
       "endDate": "2022-06-22",
       "highlights": [
-        "Maintained various React applications, generated diagrams and documents for cross pollination and handoff.",
-        "Collaborated with colleagues to implement micro frontend applications.",
-        "Guided and learned with others, utilizing React ecosystem experience, enabling others to do their best work.",
-        "Spanned the application and platform stack to guide contract based development for rapid iteration.",
-        "Member of an agile team supporting major software platform functionality, working as an individual contributor.",
-        "Extended logging with DataDog to support tracing between our microservices for metrics and debugging.",
-        "Implemented Backend For Frontend Architecture, utilizing Kafka as a messaging service between view services.",
-        "Integrated PrintNode's web-socket connection to support real-time scale data for a scan-to-ship app."
+        "Architected a Kafka-based Backend For Frontend (BFF) architecture using single-spa, coordinating with over 10 teams across time zones (Colorado, Chennai, Moldova) using the Spotify chapter strategy.",
+        "Extended logging with DataDog to enable tracing between microservices for improved metrics and debugging.",
+        "Led migration from Angular 14 to React, aligning with the parent company’s tech stack for better interoperability.",
+        "Maintained many React applications, creating diagrams and documents for seamless handoff and collaboration.",
+        "Implemented micro frontend applications, collaborating with colleagues to enhance system modularity.",
+        "Led contract-based development across the application stack for rapid iteration and deployment.",
+        "Integrated real-time scale data using PrintNode's web-socket for a scan-to-ship application."
       ]
     },
     {
