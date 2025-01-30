@@ -34,10 +34,25 @@
     {
       "name": "Nymbl Systems",
       "company": "Nymbl Systems",
+      "position": "Frontend Architect",
+      "url": "https://www.nymbl.healthcare",
+      "startDate": "2025-01-30",
+      "highlights": [
+        "Designed and implemented shared UI components and layouts, enabling repeatable and maintainable views and workflows across the application.",
+        "Led architectural decisions, ensuring scalability, maintainability, and performance across projects.",
+        "Bridged frontend, backend, and DevOps by identifying gaps in engineering solutions and applying architectural best practices.",
+        "Defined and enforced code style and standards across a large Angular application, leading to higher-quality, more efficient and maintainable code.",
+        "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
+        "Partnered with project managers to translate technical solutions into clear Jira stories with checklists and documentation for streamlined execution and integration."
+      ]
+    },    
+    {
+      "name": "Nymbl Systems",
+      "company": "Nymbl Systems",
       "position": "Senior Software Engineer",
       "url": "https://www.nymbl.healthcare",
       "startDate": "2022-06-22",
-      "endDate": "2024",
+      "endDate": "2025-01-29",
       "highlights": [
         "Architected APIs for auto populating regulated forms, collaborated with frontend colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
         "Led the migration of key application components from AngularJS to Angular 16, enhancing performance, functionality, and reducing maintenance cost.",
