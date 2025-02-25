@@ -326,7 +326,7 @@
   ],
   "projects": [
     {
-      "name": "Traifroce Resume",
+      "name": "Traiforce Resume",
       "description": "Accessible Angular Material 3 branded personal resume site with logo, and resume.json datasource.",
       "keywords": [
         "Frontend",
