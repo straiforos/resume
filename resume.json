@@ -45,7 +45,7 @@
         "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
         "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration."
       ]
-    },    
+    },
     {
       "name": "Nymbl Systems",
       "company": "Nymbl Systems",
@@ -173,22 +173,41 @@
     {
       "name": "Component Libraries",
       "level": "",
-      "keywords": ["Dev Extreme", "Material UI", "Prime NG"]
+      "keywords": [
+        "Dev Extreme",
+        "Material UI",
+        "Prime NG"
+      ]
     },
     {
       "name": "Azure",
       "level": "",
-      "keywords": ["Pipelines", "Team Foundation Server"]
+      "keywords": [
+        "Pipelines",
+        "Team Foundation Server"
+      ]
     },
     {
       "name": "AWS",
       "level": "",
-      "keywords": ["Parameter Store", "EC2", "Route 53" , "S3", "SQS", "Lambda", "Kinesis" ]
+      "keywords": [
+        "Parameter Store",
+        "EC2",
+        "Route 53",
+        "S3",
+        "SQS",
+        "Lambda",
+        "Kinesis"
+      ]
     },
     {
       "name": "Interactive Developer Environment(s)",
       "level": "",
-      "keywords": ["VS Code", "InteliJ", "Cursor"]
+      "keywords": [
+        "VS Code",
+        "InteliJ",
+        "Cursor"
+      ]
     },
     {
       "name": "Database Management",
@@ -205,12 +224,19 @@
     {
       "name": "Operating Systems",
       "level": "",
-      "keywords": ["Linux", "Windows", "MacOS"]
+      "keywords": [
+        "Linux",
+        "Windows",
+        "MacOS"
+      ]
     },
     {
       "name": "IoT",
       "level": "",
-      "keywords": ["openHAB", "Home Assistant"]
+      "keywords": [
+        "openHAB",
+        "Home Assistant"
+      ]
     }
   ],
   "interests": [
@@ -219,7 +245,8 @@
       "keywords": [
         "Esspresso",
         "Cappuccino",
-        "Super Automatic Esspresso Machine"
+        "Super Automatic Esspresso Machine",
+        "Pergamino"
       ]
     },
     {
@@ -235,7 +262,11 @@
     },
     {
       "name": "Doggos",
-      "keywords": ["Alaska Floof", "Miss. Kye", "Logi Bear"]
+      "keywords": [
+        "Alaska Floof",
+        "Miss. Kye",
+        "Logi Bear"
+      ]
     },
     {
       "name": "Gardening",
@@ -247,9 +278,87 @@
         "General Landscaping",
         "Citrus"
       ]
+    },
+    {
+      "name": "Cooking",
+      "keywords": [
+        "Shepards pie",
+        "French techiques",
+        "Pastichio",
+        "Chicken egg lemon soup",
+        "Stock",
+        "Homemade pasta sauce",
+        "Roasts"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Legend of Zelda",
+        "Age of Mythology",
+        "Don't Starve Together",
+        "Guild Wars 2",
+        "No Mans Sky",
+        "Mario Party",
+        "Minecraft"
+      ]
+    },
+    {
+      "name": "Comics",
+      "keywords": [
+        "Wonder Woman Historia",
+        "X-Men",
+        "Batman"
+      ]
+    },
+    {
+      "name": "Shows",
+      "keywords": [
+        "Fringe",
+        "Avatar the last airbender",
+        "Legend of Kora",
+        "Travelers",
+        "Lost",
+        "Severance",
+        "Dark Matter"
+      ]
     }
   ],
   "projects": [
+    {
+      "name": "Traifroce Resume",
+      "description": "Accessible Angular Material 3 branded personal resume site with logo, and resume.json datasource.",
+      "keywords": [
+        "Frontend",
+        "Angular",
+        "Material 3",
+        "Accessibility",
+        "JSON Resume",
+        "RXJS"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://github.com/straiforos/Traiforce-Resume"
+    },
+    {
+      "name": "Instagram to Bluesky",
+      "description": "Migration tool from Instagram export to bluesky, adding Video and emoji support.",
+      "keywords": [
+        "Typescript",
+        "Node.js",
+        "Bluesky",
+        "Instagram",
+        "Migration",
+        "Strategy pattern",
+        "Video upload",
+        "Emoji support"
+      ],
+      "role": [
+        "Contributor"
+      ],
+      "url": "https://github.com/marcomaroni-github/instagram-to-bluesky"
+    },
     {
       "name": "Kathys' Getaway Vacation",
       "description": "HATEOAS Focused Paging and Sorting Rental API/UI Implementation",
@@ -266,7 +375,9 @@
         "Sentry",
         "Gitpod.io"
       ],
-      "role": ["Creator"],
+      "role": [
+        "Creator"
+      ],
       "entity": "Traiforce Group LLC",
       "url": "https://gitlab.com/traiforce-group-development-team/kathysgetaway",
       "type": "Web application"
@@ -274,18 +385,30 @@
     {
       "name": "Open API Rental API",
       "description": "HATEOAS Focused Paging and Sorting Rental API",
-      "keywords": ["Open API", "API First Development", "HATEOAS"],
+      "keywords": [
+        "Open API",
+        "API First Development",
+        "HATEOAS"
+      ],
       "url": "https://github.com/straiforos/openapi-rentals-api",
-      "role": ["Creator"],
+      "role": [
+        "Creator"
+      ],
       "entity": "Traiforce Group LLC",
       "type": "Open API yaml"
     },
     {
       "name": "Defintely Typed Shopify Types",
       "description": "Type defintion for beta and v1 of the Shopify SDK",
-      "keywords": ["TypeScript", "Shopify", "Shopify SDK"],
+      "keywords": [
+        "TypeScript",
+        "Shopify",
+        "Shopify SDK"
+      ],
       "url": "https://github.com/straiforos/DefinitelyTyped/tree/shopify-buy-v1/types/shopify-buy",
-      "roles": ["Maintainer"],
+      "role": [
+        "Contributor"
+      ],
       "entity": "DefinitelyTyped",
       "type": "TypeScript Types"
     }
