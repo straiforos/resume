@@ -345,7 +345,7 @@
     },
     {
       "name": "Instagram to Bluesky",
-      "description": "Migration tool from Instagram export to bluesky, adding Video and emoji support.",
+      "description": "Migration tool from Instagram export to bluesky, adding; Video, emoji support, post splitting for lossless data migration, linting for consistency, unit test with 85% coverage, codcov integration, CI pipeline.",
       "keywords": [
         "Typescript",
         "Node.js",
