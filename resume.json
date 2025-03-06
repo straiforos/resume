@@ -43,7 +43,8 @@
         "Bridged frontend, backend, and DevOps by identifying gaps in solutions and applying best practices.",
         "Defined and encouraged code style and standards across a large Angular application, leading to higher-quality, more efficient and maintainable code.",
         "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
-        "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration."
+        "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration.",
+        "Developed an extensible HTML-to-PDF library using the Strategy Pattern to evaluate rendering engines and support dynamic forms. Enabled maintainable PDF generation for Letters of Medical Necessity, paving the way for future HIPAA consent form integration."
       ]
     },
     {
@@ -355,7 +356,11 @@
         "Migration",
         "Strategy pattern",
         "Video upload",
-        "Emoji support"
+        "Emoji support",
+        "TDD",
+        "CodeCov",
+        "CI/CD Pipeline",
+        "Strategy Pattern"
       ],
       "role": [
         "Contributor"
