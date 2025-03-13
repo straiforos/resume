@@ -71,7 +71,7 @@
       "highlights": [
         "Architected a Kafka-based Backend For Frontend (BFF) architecture using single-spa, coordinating with over 10 teams across time zones (Colorado, Chennai, Moldova) using the Spotify chapter strategy.",
         "Extended logging with DataDog to enable tracing between microservices for improved metrics and debugging.",
-        "Led migration from Angular 14 to React, aligning with the parent company’s tech stack for better interoperability.",
+        "Led the migration of a frontend applications from Angular 14 to React, coordinating with 10+ global teams using the Spotify model. Aligning with the parent company’s tech stack for better interoperability.",
         "Maintained many React applications, creating diagrams and documents for seamless handoff and collaboration.",
         "Implemented micro frontend applications, collaborating with colleagues to enhance system modularity.",
         "Led contract-based development across the application stack for rapid iteration and deployment.",
