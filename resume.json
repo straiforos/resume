@@ -69,7 +69,7 @@
       "startDate": "2020-11-23",
       "endDate": "2022-06-22",
       "highlights": [
-        "Architected a Kafka-based Backend For Frontend (BFF) architecture using single-spa, coordinating with over 10 teams across time zones (Colorado, Chennai, Moldova) using the Spotify chapter strategy.",
+        "Architected a Kafka-based Backend For Frontend (BFF) architecture using single-spa.",
         "Extended logging with DataDog to enable tracing between microservices for improved metrics and debugging.",
         "Led the migration of a frontend applications from Angular 14 to React. Aligning with the parent company’s tech stack for better interoperability.",
         "Collaborated with 10+ global teams (Colorado, Chennai, Moldova) via the Spotify Model aligning teams with our architecture and product goals.",
