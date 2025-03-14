@@ -87,7 +87,7 @@
       "startDate": "2019-03-01",
       "endDate": "2020-06-30",
       "highlights": [
-        "Architected a configurable process dashboard using MVVM, integrated with Active Directory for authentication, and implemented a three-tier deployment model.",
+        "Engineered a configurable process dashboard using MVVM, integrated with Active Directory.",
         "Rearchitected a React.JS/.Net Core Entity Framework-based healthcare platform, resulting in a 50% reduction in page load time by separating database and business logic layers, allowing for metrics and telemetry to be introduced.",
         "Extended an established Java-based near real-time reporting architecture for an eLearning platform deployed in AWS. Integrated serverless, microservice, and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification.",
         "Automated 40+ business processes for a state government agency, reducing execution time from 3 months to 2 minutes by collaborating with government statisticians.",
