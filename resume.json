@@ -360,8 +360,7 @@
         "Emoji support",
         "TDD",
         "CodeCov",
-        "CI/CD Pipeline",
-        "Strategy Pattern"
+        "CI/CD Pipeline"
       ],
       "role": [
         "Contributor"
