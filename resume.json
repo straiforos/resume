@@ -44,7 +44,8 @@
         "Defined and encouraged code style and standards across a large Angular application, leading to higher-quality, more efficient and maintainable code.",
         "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
         "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration.",
-        "Prototyped an extensible HTML-to-PDF library using the Strategy Pattern to evaluate rendering engines and support dynamic forms. Enabled maintainable PDF generation for Letters of Medical Necessity, paving the way for future HIPAA consent form integration."
+        "Prototyped an extensible HTML-to-PDF library using the Strategy Pattern to evaluate rendering engines and support dynamic forms. Enabled maintainable PDF generation for Letters of Medical Necessity, paving the way for future HIPAA consent form integration.",
+        "Designed a modular PDF form generation library to replace an unreliable legacy system and support a critical workflow. The resulting design, using dependency injection and clear interface boundaries, enabled seamless migration between HTML-to-PDF technologies while providing a foundation for multiple form types and improved system reliability."
       ]
     },
     {
