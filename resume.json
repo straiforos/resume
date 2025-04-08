@@ -42,6 +42,7 @@
         "Led architectural decisions, ensuring scalability, maintainability, and performance across projects.",
         "Bridged frontend, backend, and DevOps by identifying gaps in solutions and applying best practices.",
         "Defined and encouraged code style and standards across a large Angular application, leading to higher-quality, more efficient and maintainable code.",
+        "Mitigated vulnerabilities by securing our API endpoints and integrations with Spring Security supported by integration tests preventing regression working closely with Security and QA.",
         "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
         "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration.",
         "Prototyped an extensible HTML-to-PDF library using the Strategy Pattern to evaluate rendering engines and support dynamic forms. Enabled maintainable PDF generation for Letters of Medical Necessity, paving the way for future HIPAA consent form integration.",
