@@ -39,7 +39,7 @@
       "startDate": "2025-01-30",
       "highlights": [
         "Designed guest access mechanism using resolvers and guards swapping of our existing authentication.",
-        "Architected and implemented shared UI components and layouts, enabling repeatable and maintainable views and workflows across the application.",
+        "Architected and implemented shared UI components and layouts, enabling repeatable and maintainable views and work-flows across the application.",
         "Led architectural decisions, ensuring scalability, maintainability, and performance across projects.",
         "Bridged frontend, backend, and DevOps by identifying gaps in solutions and applying best practices.",
         "Defined and encouraged code style and standards across a large Angular application, leading to higher-quality, more efficient and maintainable code.",
@@ -47,7 +47,7 @@
         "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
         "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration.",
         "Prototyped an extensible HTML-to-PDF library using the Strategy Pattern to evaluate rendering engines and support dynamic forms. Enabled maintainable PDF generation for Letters of Medical Necessity, paving the way for future HIPAA consent form integration.",
-        "Designed a modular PDF form generation library to replace an unreliable legacy system and support a critical workflow. The resulting design, using dependency injection and clear interface boundaries, enabled seamless migration between HTML-to-PDF technologies while providing a foundation for multiple form types and improved system reliability."
+        "Designed a modular PDF form generation library to replace an unreliable legacy system and support a critical work-flow. The resulting design, using dependency injection and clear interface boundaries, enabled seamless migration between HTML-to-PDF technologies while providing a foundation for multiple form types and improved system reliability."
       ]
     },
     {
@@ -58,7 +58,7 @@
       "startDate": "2022-06-22",
       "endDate": "2025-01-29",
       "highlights": [
-        "Architected APIs for auto populating regulated forms, collaborated with frontend colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
+        "Architected APIs for auto populating regulated forms, collaborated with front-end colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
         "Led the migration of key application components from AngularJS to Angular 16, enhancing performance, functionality, and reducing maintenance cost.",
         "Collaborated on establishing code style and standards for a multi-module TypeScript application, resulting in improved code quality and efficiency.",
         "Mentored in Angular best practices within an enterprise environment."
@@ -73,11 +73,11 @@
       "endDate": "2022-06-22",
       "highlights": [
         "Led the design and implementation of a Kafka-based Backend For Frontend (BFF) architecture using single-spa, ensuring scalable, modular, and responsive systems.",
-        "Extended logging with DataDog to enable tracing between microservices for improved metrics and debugging.",
-        "Led the migration of a frontend applications from Angular 14 to React. Aligning with the parent company’s tech stack for better interoperability.",
+        "Extended logging with DataDog to enable tracing between micro-services for improved metrics and debugging.",
+        "Led the migration of a front-end applications from Angular 14 to React. Aligning with the parent company’s tech stack for better interoperability.",
         "Collaborated with 10+ global teams (Colorado, Chennai, Moldova) via the Spotify Model aligning teams with our architecture and product goals.",
         "Maintained many React applications, creating diagrams and documents for seamless handoff and collaboration.",
-        "Implemented micro frontend applications, collaborating with colleagues to enhance system modularity.",
+        "Implemented micro front-end applications, collaborating with colleagues to enhance system modularity.",
         "Led contract-based development across the application stack for rapid iteration and deployment.",
         "Integrated real-time scale data using PrintNode's web-socket for a scan-to-ship application."
       ]
@@ -162,7 +162,7 @@
         "HTML",
         "CSS",
         "JavaScript",
-        "Typescript",
+        "TypeScript",
         "C#",
         "Java",
         "Spring Boot",
@@ -179,8 +179,8 @@
       "name": "Component Libraries",
       "level": "",
       "keywords": [
-        "Dev Extreme",
         "Material UI",
+        "Dev Extreme",
         "Prime NG"
       ]
     },
@@ -248,9 +248,9 @@
     {
       "name": "Coffee",
       "keywords": [
-        "Esspresso",
+        "Espresso",
         "Cappuccino",
-        "Super Automatic Esspresso Machine",
+        "Super Automatic Espresso Machine",
         "Pergamino"
       ]
     },
