@@ -38,7 +38,7 @@
       "url": "https://www.nymbl.healthcare",
       "startDate": "2025-01-30",
       "highlights": [
-        "Designed guest access mechanism using resolvers and guards swapping of our existing authentication.",
+        "Designed guest access mechanism using resolvers and guards swapping our existing authentication.",
         "Architected and implemented shared UI components and layouts, enabling repeatable and maintainable views and work-flows across the application.",
         "Led architectural decisions, ensuring scalability, maintainability, and performance across projects.",
         "Bridged frontend, backend, and DevOps by identifying gaps in solutions and applying best practices.",
