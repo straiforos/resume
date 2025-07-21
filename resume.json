@@ -51,7 +51,6 @@
         "Designed a modular PDF form generation library to replace an unreliable legacy system and support a critical work-flow. The resulting design, using dependency injection and clear interface boundaries, enabled seamless migration between HTML-to-PDF technologies while providing a foundation for multiple form types and improved system reliability.",
         "Architected APIs for auto populating regulated forms, collaborated with front-end colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
         "Led the migration of key application components from AngularJS to Angular 16, enhancing performance, functionality, and reducing maintenance cost.",
-        "Collaborated on establishing code style and standards for a multi-module TypeScript application, resulting in improved code quality and efficiency.",
         "Mentored in Angular best practices within an enterprise environment."
       ]
     },
