@@ -34,9 +34,10 @@
     {
       "name": "Nymbl Systems",
       "company": "Nymbl Systems",
-      "position": "Frontend Architect",
+      "position": "Senior Software Engineer",
       "url": "https://www.nymbl.healthcare",
-      "startDate": "2025-01-30",
+      "startDate": "2022-06-22",
+      "endDate": "2025-01-29",
       "highlights": [
         "Designed guest access mechanism using resolvers and guards swapping our existing authentication.",
         "Architected and implemented shared UI components and layouts, enabling repeatable and maintainable views and work-flows across the application.",
@@ -47,17 +48,7 @@
         "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
         "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration.",
         "Prototyped an extensible HTML-to-PDF library using the Strategy Pattern to evaluate rendering engines and support dynamic forms. Enabled maintainable PDF generation for Letters of Medical Necessity, paving the way for future HIPAA consent form integration.",
-        "Designed a modular PDF form generation library to replace an unreliable legacy system and support a critical work-flow. The resulting design, using dependency injection and clear interface boundaries, enabled seamless migration between HTML-to-PDF technologies while providing a foundation for multiple form types and improved system reliability."
-      ]
-    },
-    {
-      "name": "Nymbl Systems",
-      "company": "Nymbl Systems",
-      "position": "Senior Software Engineer",
-      "url": "https://www.nymbl.healthcare",
-      "startDate": "2022-06-22",
-      "endDate": "2025-01-29",
-      "highlights": [
+        "Designed a modular PDF form generation library to replace an unreliable legacy system and support a critical work-flow. The resulting design, using dependency injection and clear interface boundaries, enabled seamless migration between HTML-to-PDF technologies while providing a foundation for multiple form types and improved system reliability.",
         "Architected APIs for auto populating regulated forms, collaborated with front-end colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
         "Led the migration of key application components from AngularJS to Angular 16, enhancing performance, functionality, and reducing maintenance cost.",
         "Collaborated on establishing code style and standards for a multi-module TypeScript application, resulting in improved code quality and efficiency.",
