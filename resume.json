@@ -322,6 +322,27 @@
   ],
   "projects": [
     {
+      "name": "Flock",
+      "description": "A Instagram to Bluesky Migration Application - Birds of a Feather flock together",
+      "keywords": [
+        "Typescript",
+        "Node.js",
+        "File I/O",
+        "ASCII Encoding",
+        "Bluesky",
+        "Instagram",
+        "Migration",
+        "Electron",
+        "MacOS",
+        "Linux",
+        "Windows"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://github.com/CommunityStream-io/flock"
+    },
+    {
       "name": "Traiforce Resume",
       "description": "Accessible Angular Material 3 branded personal resume site with logo, and resume.json datasource.",
       "keywords": [
