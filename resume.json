@@ -325,6 +325,7 @@
       "name": "Flock",
       "description": "A Instagram to Bluesky Migration Application - Birds of a Feather flock together",
       "keywords": [
+        "Angular 20",
         "Typescript",
         "Node.js",
         "File I/O",
@@ -335,7 +336,9 @@
         "Electron",
         "MacOS",
         "Linux",
-        "Windows"
+        "Windows",
+        "AtProto",
+        "CI/CD Pipeline"
       ],
       "role": [
         "Creator"
