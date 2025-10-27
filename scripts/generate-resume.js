@@ -11,7 +11,7 @@ async function generateResume(outputPath, resumeJson, shouldBeOnePage = false) {
   try {
     // Generate the PDF
     execSync(
-      `resume export --theme ./theme ${outputPath} --resume ${resumeJson}`,
+      `resume export --theme traiforce ${outputPath} --resume ${resumeJson}`,
       { stdio: 'inherit' }
     );
     

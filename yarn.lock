@@ -4014,6 +4014,11 @@ jsonresume-theme-even@^0.6.0:
     micromark "^2.11.4"
     striptags "^3.1.1"
 
+jsonresume-theme-traiforce@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/jsonresume-theme-traiforce/-/jsonresume-theme-traiforce-1.0.1.tgz"
+  integrity sha512-h9tbDQAIe5rB1zhc0Yy+cYHOCUOt9I2X40rBRiWWWPYScx+cO1qS86idSui5SHzU4RBWGk0ZNY7wImfV2bOVpg==
+
 jsonresume-themeutils@^1.4.3:
   version "1.4.3"
   resolved "https://registry.npmjs.org/jsonresume-themeutils/-/jsonresume-themeutils-1.4.3.tgz"

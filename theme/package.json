@@ -1,6 +1,6 @@
 {
   "name": "jsonresume-theme-traiforce",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Traiforce Resume Theme - Clean, professional layout with modern styling",
   "main": "index.js",
   "type": "module",
@@ -23,6 +23,9 @@
   "license": "MIT",
   "publishConfig": {
     "access": "public"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
 

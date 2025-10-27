@@ -1,16 +1,68 @@
-# Traiforce Resume Theme
+# jsonresume-theme-traiforce
 
-A custom JSON Resume theme that matches the original PDF layout.
+A clean, professional JSON Resume theme with modern styling.
 
 ## Features
 
 - **Header Layout**: Name + {JSON Resume} link + Phone + Email all on one line
 - **Section Dividers**: Horizontal lines separating sections
-- **Clean Typography**: Arial/Helvetica fonts matching original
+- **Clean Typography**: Arial/Helvetica fonts
 - **Two-Column Skills**: Skills displayed in a grid layout
 - **Professional Colors**: Blue headers (#2f5496), gray dates (#434649)
 - **Bullet Points**: Indented bullet lists for work experience
 - **Right-Aligned Dates**: Dates positioned on the right side
+
+## Installation
+
+Install the theme using npm:
+
+```bash
+npm install -g resume-cli jsonresume-theme-traiforce
+```
+
+Or install it locally:
+
+```bash
+npm install jsonresume-theme-traiforce
+```
+
+## Usage
+
+### Using resume-cli
+
+Generate a resume HTML file with this theme:
+
+```bash
+resume export resume.html --theme traiforce
+```
+
+### Programmatically
+
+```javascript
+import { render } from 'jsonresume-theme-traiforce';
+import fs from 'fs';
+
+const resumeData = JSON.parse(fs.readFileSync('resume.json', 'utf8'));
+const html = render(resumeData);
+fs.writeFileSync('resume.html', html);
+```
+
+## Theme Structure
+
+The theme is organized into modular components:
+- `lib/resume.js` - Main render function
+- `lib/styles/` - CSS modules for each section
+- `partials/` - HTML rendering components for each section
+- `lib/helpers.js` - Utility functions
+
+## Customization
+
+The theme uses ES modules and inline CSS. To customize:
+
+1. Fork this repository
+2. Modify the CSS in `lib/styles/*.js` files
+3. Adjust the HTML structure in `partials/*.js` files
+4. Publish your own theme
 
 ## Layout Structure
 
@@ -38,26 +90,6 @@ Education
 ───────────────────────────────────────────────────────────
 University Name, Degree                                 Dates
 ```
-
-## Usage
-
-This theme is automatically used by the resume-cli in this repository:
-
-```bash
-npm run generate          # Generate default resume
-npm run generate:whoop     # Generate WHOOP-specific resume
-```
-
-## Customization
-
-Edit the following files:
-- `lib/resume.js` - HTML structure and rendering logic
-- CSS within `lib/resume.js` - Styling and layout
-- `helpers.js` - Utility functions
-
-## Dependencies
-
-- None (pure JavaScript)
 
 ## License
 
