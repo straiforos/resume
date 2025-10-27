@@ -9,13 +9,16 @@
   "scripts": {
     "generate": "resume export --theme ./theme resume.pdf",
     "generate:whoop": "resume export --theme ./theme output/whoop-resume.pdf --resume whoop-resume.json",
-    "generate:onepage": "resume export --theme ./theme output/one-page.pdf --resume one-page.json"
+    "generate:onepage": "resume export --theme ./theme output/one-page.pdf --resume one-page.json",
+    "test": "jest"
   },
   "dependencies": {
-    "resume-cli": "^3.0.6"
+    "resume-cli": "^3.0.6",
+    "pdf-parse": "^1.1.1"
   },
   "devDependencies": {
     "jsonresume-theme-elegant": "^1.16.1",
-    "jsonresume-theme-eloquent": "^5.0.0"
+    "jsonresume-theme-eloquent": "^5.0.0",
+    "jest": "^29.7.0"
   }
 }

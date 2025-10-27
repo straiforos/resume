@@ -6,6 +6,7 @@ function renderSkills(skills) {
   let html = `
     <div class="section">
       <h2>Skills</h2>
+      <div class="divider"></div>
       <div class="skills-grid">
   `;
   

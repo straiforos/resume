@@ -1,7 +1,7 @@
 function getEducationCSS() {
   return `
     .education-entry {
-      margin-bottom: 4pt;
+      margin-bottom: 2pt;
     }
     
     .education-row {

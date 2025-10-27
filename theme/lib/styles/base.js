@@ -13,7 +13,7 @@ function getBaseCSS() {
       line-height: 1.15;
       background: white;
       margin: 0;
-      padding: 36pt;
+      padding: 12pt 36pt 30pt 36pt;
     }
     
     .resume {

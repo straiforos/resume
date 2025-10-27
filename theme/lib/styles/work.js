@@ -1,13 +1,13 @@
 function getWorkCSS() {
   return `
     .work-entry {
-      margin-bottom: 12pt;
+      margin-bottom: 6pt;
     }
     
     .company-row {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 4pt;
+      margin-bottom: 3pt;
     }
     
     .company-name {
@@ -25,21 +25,22 @@ function getWorkCSS() {
       font-size: 10pt;
       color: #0563c1;
       font-weight: bold;
-      margin-bottom: 4pt;
+      margin-bottom: 2pt;
     }
     
     .highlights {
       list-style: none;
       margin-left: 36pt;
-      margin-top: 6pt;
+      margin-top: 3pt;
     }
     
     .highlights li {
-      font-size: 11pt;
+      font-size: 10pt;
       font-family: Arial, sans-serif;
-      margin-bottom: 12pt;
+      margin-bottom: 0pt;
       position: relative;
       padding-left: 18pt;
+      line-height: 1.1;
     }
     
     .highlights li:before {
@@ -47,7 +48,7 @@ function getWorkCSS() {
       position: absolute;
       left: 0;
       color: #000;
-      font-size: 11pt;
+      font-size: 10pt;
     }
   `;
 }

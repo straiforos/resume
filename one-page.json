@@ -21,8 +21,8 @@
         "Led the migration of key application components from AngularJS to Angular 16",
         "Collaborated on establishing code style and standards for a multi-module TypeScript application",
         "Mentored in Angular best practices within an enterprise environment",
-        "Designed and implemented Java lambda PDF generator for AI medical documentation",
-        "Maintained and created PDF autopopulation for billing and medical necessity claims in Spring Boot with validation and error handling",
+        "Designed and implemented Java lambda PDF generator for AI medical documentation written in Java",
+        "Maintained and created PDF autopopulation for billing and medical necessity claims in spring boot with validation and error handling",
         "Directed a team of frontend engineers, enhancing architecture and functionality, while leveraging team strengths and effectively allocating resources"
       ]
     },
@@ -48,8 +48,8 @@
       "endDate": "2020-06-30",
       "highlights": [
         "Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles",
-        "Extended an established Java based near real time reporting architecture for ELearning platform deployed in AWS. Integrated serverless, microservice and monolithic application components to support xAPI launch verbs",
-        "Optimized React.JS/.Net Core Entity Framework based healthcare platform resulting in 50% page load time reduction through the separation of database and business logic layers",
+        "Extended an established Java based near real time reporting architecture for ELearning platform deployed in AWS. Integrated serverless, microservice and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification",
+        "Optimized React.JS/.Net Core Entity Framework based healthcare platform resulting in 50% page load time reduction through the separation of database and business logic layers, allowing for metrics and telemetry to be introduced",
         "Automated 40+ business processes into an enterprise class application for a state government agency. Collaborated with government statisticians, reducing average process execution time from 3 months to 2 minutes"
       ]
     },
@@ -60,9 +60,8 @@
       "startDate": "2017-10-09",
       "endDate": "2019-02-28",
       "highlights": [
-        "Implemented batch processing for bulk shipping rate quotes within Java Spring Boot environment",
-        "Developed Salesforce API extension taking advantage of remote action calls",
-        "SCRUM master, mitigating impediments to story completion, ensuring stakeholder feedback is incorporated appropriately"
+        "Implemented batch processing for bulk shipping rate quotes in Java Spring Boot",
+        "Developed Salesforce API extensions and served as SCRUM master"
       ]
     }
   ],
@@ -75,9 +74,7 @@
       "endDate": "2017-05"
     },
     {
-      "institution": "University of Massachusetts",
-      "area": "",
-      "studyType": "",
+      "institution": "University of Massachusetts, Amherst",
       "startDate": "2014-01",
       "endDate": "2015-01"
     }

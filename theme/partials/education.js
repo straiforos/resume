@@ -6,6 +6,7 @@ function renderEducation(education) {
   let html = `
     <div class="section">
       <h2>Education</h2>
+      <div class="divider"></div>
   `;
   
   education.forEach((edu) => {

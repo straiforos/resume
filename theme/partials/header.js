@@ -6,12 +6,13 @@ function renderHeader(basics) {
   
   return `
     <div class="header">
-      <span class="name">${helpers.escape(basics.name)}</span>
-      <span class="json-link">{JSON Resume}</span>
-      <span class="contact">${helpers.escape(phone)}</span>
-      <span class="email">${helpers.escape(email)}</span>
+      <div class="name">${helpers.escape(basics.name)}</div>
+      <div class="contact-group">
+        <span class="json-link">{JSON Resume}</span>
+        <span class="contact">${helpers.escape(phone)}</span>
+        <span class="email">${helpers.escape(email)}</span>
+      </div>
     </div>
-    <div class="divider"></div>
   `;
 }
 

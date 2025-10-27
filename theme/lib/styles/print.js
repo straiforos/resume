@@ -12,6 +12,11 @@ function getPrintCSS() {
       .work-entry {
         page-break-inside: avoid;
       }
+      
+      .resume {
+        height: 100%;
+        overflow: hidden;
+      }
     }
   `;
 }
