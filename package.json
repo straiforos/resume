@@ -7,9 +7,7 @@
   "author": "straiforos <stephen@traiforos.com>",
   "license": "MIT",
   "scripts": {
-    "generate": "resume export --theme ./theme resume.pdf",
-    "generate:whoop": "resume export --theme ./theme output/whoop-resume.pdf --resume whoop-resume.json",
-    "generate:onepage": "resume export --theme ./theme output/one-page.pdf --resume one-page.json",
+    "generate": "node scripts/generate-resume.js",
     "test": "jest"
   },
   "dependencies": {
