@@ -1,4 +1,4 @@
-function getEducationCSS() {
+export default function getEducationCSS() {
   return `
     .education-entry {
       margin-bottom: 2pt;
@@ -21,6 +21,4 @@ function getEducationCSS() {
     }
   `;
 }
-
-module.exports = getEducationCSS;
 

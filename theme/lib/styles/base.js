@@ -1,4 +1,4 @@
-function getBaseCSS() {
+export default function getBaseCSS() {
   return `
     * {
       margin: 0;
@@ -22,6 +22,4 @@ function getBaseCSS() {
     }
   `;
 }
-
-module.exports = getBaseCSS;
 

@@ -1,0 +1,25 @@
+# Development files
+.gitignore
+.github/
+example.json
+test/
+*.test.js
+*.spec.js
+
+# Documentation
+README.md
+STRUCTURE.md
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output
+*.pdf
+*.html
+
+# npm
+npm-debug.log*
+

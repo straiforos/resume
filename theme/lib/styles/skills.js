@@ -1,4 +1,4 @@
-function getSkillsCSS() {
+export default function getSkillsCSS() {
   return `
     .summary-text {
       font-size: 11pt;
@@ -29,6 +29,4 @@ function getSkillsCSS() {
     }
   `;
 }
-
-module.exports = getSkillsCSS;
 

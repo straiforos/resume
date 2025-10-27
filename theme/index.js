@@ -1,4 +1,2 @@
-const resumeRenderer = require('./lib/resume');
-
-module.exports = resumeRenderer;
+export { render } from './lib/resume.js';
 

@@ -1,6 +1,6 @@
-const helpers = require('../lib/helpers');
+import { escape } from '../lib/helpers.js';
 
-function renderWork(work) {
+export default function renderWork(work) {
   if (!work || work.length === 0) return '';
   
   let html = `
@@ -14,10 +14,10 @@ function renderWork(work) {
     html += `
       <div class="work-entry">
         <div class="company-row">
-          <span class="company-name">${helpers.escape(job.company || job.name)}</span>
-          <span class="date-range">${helpers.escape(dateRange)}</span>
+          <span class="company-name">${escape(job.company || job.name)}</span>
+          <span class="date-range">${escape(dateRange)}</span>
         </div>
-        ${job.position ? `<div class="position">${helpers.escape(job.position)}</div>` : ''}
+        ${job.position ? `<div class="position">${escape(job.position)}</div>` : ''}
         ${renderHighlights(job.highlights)}
       </div>
     `;
@@ -33,7 +33,7 @@ function renderHighlights(highlights) {
   
   let html = '<ul class="highlights">';
   highlights.forEach((highlight) => {
-    html += `<li>${helpers.escape(highlight)}</li>`;
+    html += `<li>${escape(highlight)}</li>`;
   });
   html += '</ul>';
   
@@ -56,6 +56,4 @@ function formatDateRange(startDate, endDate) {
   
   return `${start} - ${end}`;
 }
-
-module.exports = renderWork;
 

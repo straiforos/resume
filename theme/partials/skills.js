@@ -1,6 +1,6 @@
-const helpers = require('../lib/helpers');
+import { escape } from '../lib/helpers.js';
 
-function renderSkills(skills) {
+export default function renderSkills(skills) {
   if (!skills || skills.length === 0) return '';
   
   let html = `
@@ -12,7 +12,7 @@ function renderSkills(skills) {
   
   skills.forEach((skill) => {
     html += `<div class="skill-group">
-      <span class="skill-label">${helpers.escape(skill.name)}:</span>
+      <span class="skill-label">${escape(skill.name)}:</span>
       <span class="skill-keywords">${skill.keywords.join(', ')}</span>
     </div>`;
   });
@@ -21,6 +21,4 @@ function renderSkills(skills) {
   
   return html;
 }
-
-module.exports = renderSkills;
 

@@ -1,4 +1,4 @@
-function escape(text) {
+export function escape(text) {
   if (!text) return '';
   return String(text)
     .replace(/&/g, '&amp;')
@@ -7,8 +7,4 @@ function escape(text) {
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
 }
-
-module.exports = {
-  escape
-};
 

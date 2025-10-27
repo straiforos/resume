@@ -1,11 +1,11 @@
-const renderHeader = require('../partials/header');
-const renderSummary = require('../partials/summary');
-const renderSkills = require('../partials/skills');
-const renderWork = require('../partials/work');
-const renderEducation = require('../partials/education');
-const getCSS = require('./styles');
+import renderHeader from '../partials/header.js';
+import renderSummary from '../partials/summary.js';
+import renderSkills from '../partials/skills.js';
+import renderWork from '../partials/work.js';
+import renderEducation from '../partials/education.js';
+import getCSS from './styles.js';
 
-function render(data) {
+export function render(data) {
   const { basics, work, education, skills } = data;
   
   let html = `<!DOCTYPE html>
@@ -30,6 +30,4 @@ function render(data) {
   
   return html;
 }
-
-module.exports = { render };
 

@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# npm
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output
+*.pdf
+*.html
+
+# Test
+coverage/
+.nyc_output/
+

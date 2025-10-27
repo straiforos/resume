@@ -1,4 +1,4 @@
-function getWorkCSS() {
+export default function getWorkCSS() {
   return `
     .work-entry {
       margin-bottom: 6pt;
@@ -52,6 +52,4 @@ function getWorkCSS() {
     }
   `;
 }
-
-module.exports = getWorkCSS;
 

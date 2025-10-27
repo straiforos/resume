@@ -1,20 +1,18 @@
-const helpers = require('../lib/helpers');
+import { escape } from '../lib/helpers.js';
 
-function renderHeader(basics) {
+export default function renderHeader(basics) {
   const phone = basics.phone || '';
   const email = basics.email || '';
   
   return `
     <div class="header">
-      <div class="name">${helpers.escape(basics.name)}</div>
+      <div class="name">${escape(basics.name)}</div>
       <div class="contact-group">
         <span class="json-link"><a href="https://stephen.traiforos.com/">{stephen.traiforos.com}</a></span>
-        <span class="contact">${helpers.escape(phone)}</span>
-        <span class="email">${helpers.escape(email)}</span>
+        <span class="contact">${escape(phone)}</span>
+        <span class="email">${escape(email)}</span>
       </div>
     </div>
   `;
 }
-
-module.exports = renderHeader;
 

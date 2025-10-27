@@ -1,12 +1,12 @@
-const getBaseCSS = require('./styles/base');
-const getHeaderCSS = require('./styles/header');
-const getSectionCSS = require('./styles/section');
-const getSkillsCSS = require('./styles/skills');
-const getWorkCSS = require('./styles/work');
-const getEducationCSS = require('./styles/education');
-const getPrintCSS = require('./styles/print');
+import getBaseCSS from './styles/base.js';
+import getHeaderCSS from './styles/header.js';
+import getSectionCSS from './styles/section.js';
+import getSkillsCSS from './styles/skills.js';
+import getWorkCSS from './styles/work.js';
+import getEducationCSS from './styles/education.js';
+import getPrintCSS from './styles/print.js';
 
-function getCSS() {
+export default function getCSS() {
   return `
     ${getBaseCSS()}
     ${getHeaderCSS()}
@@ -17,6 +17,4 @@ function getCSS() {
     ${getPrintCSS()}
   `;
 }
-
-module.exports = getCSS;
 

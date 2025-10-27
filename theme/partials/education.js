@@ -1,6 +1,6 @@
-const helpers = require('../lib/helpers');
+import { escape } from '../lib/helpers.js';
 
-function renderEducation(education) {
+export default function renderEducation(education) {
   if (!education || education.length === 0) return '';
   
   let html = `
@@ -16,8 +16,8 @@ function renderEducation(education) {
     html += `
       <div class="education-entry">
         <div class="education-row">
-          <span class="education-name">${helpers.escape(edu.institution)}${degree ? ', ' + helpers.escape(degree) : ''}</span>
-          <span class="education-date">${helpers.escape(dateRange)}</span>
+          <span class="education-name">${escape(edu.institution)}${degree ? ', ' + escape(degree) : ''}</span>
+          <span class="education-date">${escape(dateRange)}</span>
         </div>
       </div>
     `;
@@ -44,6 +44,4 @@ function formatDateRange(startDate, endDate) {
   
   return `${start} - ${end}`;
 }
-
-module.exports = renderEducation;
 

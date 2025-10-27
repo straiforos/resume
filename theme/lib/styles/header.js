@@ -1,4 +1,4 @@
-function getHeaderCSS() {
+export default function getHeaderCSS() {
   return `
     .header {
       margin-bottom: 4pt;
@@ -41,6 +41,4 @@ function getHeaderCSS() {
     }
   `;
 }
-
-module.exports = getHeaderCSS;
 

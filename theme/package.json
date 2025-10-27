@@ -1,9 +1,28 @@
 {
   "name": "jsonresume-theme-traiforce",
   "version": "1.0.0",
-  "description": "Traiforce Resume Theme - Clean, professional layout matching the original PDF",
+  "description": "Traiforce Resume Theme - Clean, professional layout with modern styling",
   "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsonresume",
+    "resume",
+    "cv",
+    "theme",
+    "json",
+    "pdf"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/straiforos/jsonresume-theme-traiforce"
+  },
   "author": "Stephen Traiforos",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
 

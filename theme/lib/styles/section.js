@@ -1,4 +1,4 @@
-function getSectionCSS() {
+export default function getSectionCSS() {
   return `
     .section {
       margin-bottom: 8pt;
@@ -12,6 +12,4 @@ function getSectionCSS() {
     }
   `;
 }
-
-module.exports = getSectionCSS;
 

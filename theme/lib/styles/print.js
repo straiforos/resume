@@ -1,4 +1,4 @@
-function getPrintCSS() {
+export default function getPrintCSS() {
   return `
     @media print {
       body {
@@ -20,6 +20,4 @@ function getPrintCSS() {
     }
   `;
 }
-
-module.exports = getPrintCSS;
 
