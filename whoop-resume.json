@@ -1,0 +1,317 @@
+{
+  "basics": {
+    "name": "Stephen Traiforos",
+    "image": "https://www.gravatar.com/avatar/2802aa3aba37aee55d3baf94b42e90bf",
+    "label": "Fullstack Software Engineer",
+    "email": "stephen@traiforos.com",
+    "phone": "(508) 494-5048",
+    "summary": "Passionate Full-Stack Engineer with expertise in designing scalable web applications, robust database structures, and compliant systems; HIPPA, OWASP. Applying methodologies; TDD, Pair programming, UML, ER and Sequence diagrams to document systems clearly to enable maintainable systems.",
+    "location": {
+      "postalCode": "MA 02119",
+      "city": "Roxbury",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "straiforos",
+        "url": "https://www.linkedin.com/in/stephen-traiforos/"
+      },
+      {
+        "network": "GitHub",
+        "username": "straiforos",
+        "url": "https://github.com/straiforos"
+      },
+      {
+        "network": "Medium",
+        "username": "triforce",
+        "url": "https://triforce.medium.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nymbl Systems",
+      "company": "Nymbl Systems",
+      "position": "Senior Software Engineer",
+      "url": "https://www.nymbl.healthcare",
+      "startDate": "2022-06-22",
+      "endDate": "2025-01-29",
+      "highlights": [
+        "Mitigated vulnerabilities by securing our API endpoints and integrations with Spring Security supported by integration tests preventing regression working closely with Security and QA.",
+        "Architected and implemented shared UI components and layouts, enabling repeatable and maintainable views and work-flows across the application.",
+        "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
+        "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration.",
+        "Architected APIs for auto populating regulated forms, collaborated with front-end colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
+        "Led architectural decisions, ensuring scalability, maintainability, and performance across projects.",
+        "Led the migration of key application components from AngularJS to Angular 16, enhancing performance, functionality, and reducing maintenance cost.",
+        "Bridged frontend, backend, and DevOps by identifying gaps in solutions and applying best practices.",
+        "Mentored in Angular best practices within an enterprise environment."
+      ]
+    },
+    {
+      "name": "Traiforce Group LLC",
+      "company": "Traiforce Group LLC",
+      "position": "Independent Contractor",
+      "url": "mailto:stephen@traiforos.com",
+      "startDate": "2020-11-23",
+      "endDate": "2022-06-22",
+      "highlights": [
+        "Led the migration of a front-end applications from Angular 14 to React. Aligning with the parent company's tech stack for better interoperability.",
+        "Maintained many React applications, creating diagrams and documents for seamless handoff and collaboration.",
+        "Led the design and implementation of a Kafka-based Backend For Frontend (BFF) architecture using single-spa, ensuring scalable, modular, and responsive systems.",
+        "Extended logging with DataDog to enable tracing between micro-services for improved metrics and debugging.",
+        "Collaborated with 10+ global teams (Colorado, Chennai, Moldova) via the Spotify Model aligning teams with our architecture and product goals.",
+        "Led contract-based development across the application stack for rapid iteration and deployment.",
+        "Integrated real-time scale data using PrintNode's web-socket for a scan-to-ship application."
+      ]
+    },
+    {
+      "name": "Triverus LLC",
+      "company": "Triverus LLC",
+      "position": "Associate Consultant",
+      "url": "https://triverusconsulting.com",
+      "startDate": "2019-03-01",
+      "endDate": "2020-06-30",
+      "highlights": [
+        "Rearchitected a React.JS/.Net Core Entity Framework-based healthcare platform, resulting in a 50% reduction in page load time by separating database and business logic layers, allowing for metrics and telemetry to be introduced.",
+        "Extended an established Java-based near real-time reporting architecture for an eLearning platform deployed in AWS. Integrated serverless, microservice, and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification.",
+        "Engineered a configurable process dashboard using MVVM, integrated with Active Directory.",
+        "Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles."
+      ]
+    },
+    {
+      "name": "Kuebix LLC",
+      "company": "Kuebix LLC",
+      "position": "Software Engineer",
+      "url": "https://kuebix.com",
+      "startDate": "2017-10-09",
+      "endDate": "2019-02-28",
+      "highlights": [
+        "Implemented batch processing for bulk shipping rate quotes within Java Spring Boot environment, merging data from multiple sources. Syncing results into Salesforce while respecting strict API limitations.",
+        "Developed Salesforce API extension taking advantage of remote action calls, resulting in cost reduction and development acceleration. Embedding client-side applications; utilizing Knockout JS, Angular JS, and Angular 8 with state management, leveraged ngrok to debug production environments.",
+        "SCRUM master, mitigating impediments to story completion, ensuring stakeholder feedback is incorporated appropriately and signed off. Advocated for teammates, identifying strengths and weaknesses for task assignment, leading to increase of team productivity and cohesion. Analyzed sprint metrics to ensure appropriate client expectations, ensuring risk identification and mitigation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Worcester State University",
+      "url": "https://www.worcester.edu/",
+      "area": "Computer Science: Software Development",
+      "studyType": "Bachelors of Science",
+      "score": "3.4",
+      "courses": [
+        "Database security",
+        "Application development",
+        "Cloud computing",
+        "Distributed Systems",
+        "Data mining"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Frameworks",
+      "level": "",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Angular",
+        "Vue",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Backend & API Development",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "C#",
+        ".Net Core",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "",
+      "keywords": [
+        "PostgreSQL",
+        "JPA",
+        "Entity Framework .Net Core",
+        "MS SQL",
+        "MYSQL",
+        "Mongo"
+      ]
+    },
+    {
+      "name": "AWS Cloud Services",
+      "level": "",
+      "keywords": [
+        "EC2",
+        "S3",
+        "SQS",
+        "Lambda",
+        "Kinesis",
+        "Parameter Store",
+        "Route 53"
+      ]
+    },
+    {
+      "name": "Component Libraries",
+      "level": "",
+      "keywords": [
+        "Material UI",
+        "Dev Extreme",
+        "Prime NG"
+      ]
+    },
+    {
+      "name": "DevOps & Security",
+      "level": "",
+      "keywords": [
+        "Kuebernetes",
+        "Vulnerbility scaners: Snyk",
+        "OWASP",
+        "HIPPA"
+      ]
+    },
+    {
+      "name": "Observability & Monitoring",
+      "level": "",
+      "keywords": [
+        "DataDog",
+        "Telemetry",
+        "Metrics"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gardening",
+      "keywords": [
+        "Roses",
+        "Dalias",
+        "Peonies",
+        "Berries",
+        "General Landscaping",
+        "Citrus"
+      ]
+    },
+    {
+      "name": "Cooking",
+      "keywords": [
+        "Shepards pie",
+        "French techiques",
+        "Pastichio",
+        "Chicken egg lemon soup",
+        "Stock",
+        "Homemade pasta sauce",
+        "Roasts",
+        "Alton Brown (My hero)"
+      ]
+    },
+    {
+      "name": "IoT",
+      "keywords": [
+        "openHAB",
+        "Home Assistant"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Instagram to Bluesky",
+      "description": "Migration tool from Instagram export to bluesky, adding; Video, emoji support, post splitting for lossless data migration, linting for consistency, unit test with 85% coverage, codcov integration, CI pipeline.",
+      "keywords": [
+        "Typescript",
+        "Node.js",
+        "File I/O",
+        "ASCII Encoding",
+        "Bluesky",
+        "Instagram",
+        "Migration",
+        "Strategy pattern",
+        "Video upload",
+        "Emoji support",
+        "TDD",
+        "CodeCov",
+        "CI/CD Pipeline"
+      ],
+      "role": [
+        "Contributor"
+      ],
+      "url": "https://github.com/marcomaroni-github/instagram-to-bluesky"
+    },
+    {
+      "name": "Kathys' Getaway Vacation",
+      "description": "HATEOAS Focused Paging and Sorting Rental API/UI Implementation",
+      "keywords": [
+        "Interface first development",
+        "Open API",
+        "Spring Boot",
+        "Angular application",
+        "Java 17",
+        "Mapstruct",
+        "Lombok",
+        "PostgreSQL",
+        "JPA",
+        "Formula",
+        "ColumnTransformer",
+        "GitLab",
+        "Sentry",
+        "Gitpod.io"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "entity": "Traiforce Group LLC",
+      "url": "https://gitlab.com/traiforce-group-development-team/kathysgetaway",
+      "type": "Web application"
+    },
+    {
+      "name": "Open API Rental API",
+      "description": "HATEOAS Focused Paging and Sorting Rental API",
+      "keywords": [
+        "Open API",
+        "API First Development",
+        "HATEOAS"
+      ],
+      "url": "https://github.com/straiforos/openapi-rentals-api",
+      "role": [
+        "Creator"
+      ],
+      "entity": "Traiforce Group LLC",
+      "type": "Open API yaml"
+    },
+    {
+      "name": "Flock",
+      "description": "A Instagram to Bluesky Migration Application - Birds of a Feather flock together",
+      "keywords": [
+        "Angular 20",
+        "Typescript",
+        "Node.js",
+        "File I/O",
+        "ASCII Encoding",
+        "Bluesky",
+        "Instagram",
+        "Migration",
+        "Electron",
+        "MacOS",
+        "Linux",
+        "Windows",
+        "AtProto",
+        "CI/CD Pipeline"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://github.com/CommunityStream-io/flock"
+    }
+  ]
+}
+

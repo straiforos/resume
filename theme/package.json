@@ -1,0 +1,9 @@
+{
+  "name": "jsonresume-theme-traiforce",
+  "version": "1.0.0",
+  "description": "Traiforce Resume Theme - Clean, professional layout matching the original PDF",
+  "main": "index.js",
+  "author": "Stephen Traiforos",
+  "license": "MIT"
+}
+

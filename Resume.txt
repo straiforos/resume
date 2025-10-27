@@ -1,0 +1,35 @@
+﻿Stephen G. Traiforos                                {JSON Resume} (508) 494-5048 stephen@traiforos.com
+Summary
+
+
+Passionate full stack engineer seeking a highly collaborative team environment with a variety of architectures and technical challenges. Self driven developer with a proven track record of providing innovative solutions while leading by example through a thoughtful understanding of the customer experience, business priorities, and market opportunity.
+Skills
+Azure: Pipelines, Team Foundation Server        AWS: S3, Kinesis, SQS, Lambda, Parameter Store
+IDEs: VS Code, IntelliJ, Visual Studio                Object-Oriented/Functional: Java, JavaScript/TypeScript, C#        
+Database Management: Relational, No SQL         Front End: HTML5, CSS3, React JS, Angular 16
+Back End: Spring Boot, Kubernetes                Operating Systems: Docker, Windows, Linux
+Work Experience
+Nymbl Systems                                                                        June 2022 - Present
+Senior Software Engineer
+* Led the migration of key application components from AngularJS to Angular 16.
+* Collaborated on establishing code style and standards for a multi-module TypeScript application.
+* Mentored in Angular best practices within an enterprise environment.
+* Designed and implemented Java lambda PDF generator for AI medical documentation written in Java.
+* Maintained and created PDF autopopulation for billing and medical necessity claims in spring boot with validation and error handling.
+* Directed a team of frontend engineers, enhancing architecture and functionality, while leveraging team strengths and effectively allocating resources.
+* Traiforce Group LLC, Marlborough MA                                                November 2020 - June 2022
+Founder, Independent contractor
+* Maintained various React applications, generated diagrams and documents for cross pollination and handoff.
+* Guided and learned with others, utilizing React ecosystem experience, enabling others to do their best work.
+* Collaborated with colleagues to implement micro frontend applications.
+* Spanned the application and platform stack to guide contract based development for rapid iteration.
+* Member of an agile team supporting major software platform functionality, working as an individual contributor.
+Triverus Consulting LLC, Woburn MA                                                March 2019 – June 2020
+Associate Consultant, Software Engineer
+* Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles.
+* Extended an established Java based near real time reporting architecture for ELearning platform deployed in AWS.  Integrated serverless, microservice and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification.
+* Optimized React.JS/.Net Core Entity Framework based healthcare platform resulting in 50% page load time reduction through the separation of database and business logic layers, allowing for metrics and telemetry to be introduced.
+* Automated 40+ business processes into an enterprise class application for a state government agency. Collaborated with government statisticians, reducing average process execution time from 3 months to 2 minutes.
+Education
+Worcester State University, BS Computer Science; Software Engineering, Security focus                2015 – May 2017
+University of Massachusetts, Amherst                                                                 2014 – 2015

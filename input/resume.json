@@ -1,0 +1,444 @@
+{
+  "basics": {
+    "name": "Stephen Traiforos",
+    "image": "https://www.gravatar.com/avatar/2802aa3aba37aee55d3baf94b42e90bf",
+    "label": "Fullstack Software Engineer",
+    "email": "stephen@traiforos.com",
+    "phone": "(508) 494-5048",
+    "summary": "Passionate Full-Stack Engineer with expertise in designing scalable web applications, robust database structures, and compliant systems; HIPPA, OWASP. Applying methodologies; TDD, Pair programming, UML, ER and Sequence diagrams to document systems clearly to enable maintainable systems.",
+    "location": {
+      "postalCode": "MA 02119",
+      "city": "Roxbury",
+      "countryCode": "US",
+      "region": "Massachusetts"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "straiforos",
+        "url": "https://www.linkedin.com/in/stephen-traiforos/"
+      },
+      {
+        "network": "GitHub",
+        "username": "straiforos",
+        "url": "https://github.com/straiforos"
+      },
+      {
+        "network": "Medium",
+        "username": "triforce",
+        "url": "https://triforce.medium.com"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Nymbl Systems",
+      "company": "Nymbl Systems",
+      "position": "Senior Software Engineer",
+      "url": "https://www.nymbl.healthcare",
+      "startDate": "2022-06-22",
+      "endDate": "2025-01-29",
+      "highlights": [
+        "Designed guest access mechanism using resolvers and guards swapping our existing authentication.",
+        "Architected and implemented shared UI components and layouts, enabling repeatable and maintainable views and work-flows across the application.",
+        "Led architectural decisions, ensuring scalability, maintainability, and performance across projects.",
+        "Bridged frontend, backend, and DevOps by identifying gaps in solutions and applying best practices.",
+        "Defined and encouraged code style and standards across a large Angular application, leading to higher-quality, more efficient and maintainable code.",
+        "Mitigated vulnerabilities by securing our API endpoints and integrations with Spring Security supported by integration tests preventing regression working closely with Security and QA.",
+        "Worked with designers and frontend engineers to establish API contracts, ensuring clarity and consistency in system interactions.",
+        "Collaborated with project manager and teammates to translate product requirements to technical solutions. Creating clear Jira stories with checklists and documentation for streamlined execution and integration.",
+        "Prototyped an extensible HTML-to-PDF library using the Strategy Pattern to evaluate rendering engines and support dynamic forms. Enabled maintainable PDF generation for Letters of Medical Necessity, paving the way for future HIPAA consent form integration.",
+        "Designed a modular PDF form generation library to replace an unreliable legacy system and support a critical work-flow. The resulting design, using dependency injection and clear interface boundaries, enabled seamless migration between HTML-to-PDF technologies while providing a foundation for multiple form types and improved system reliability.",
+        "Architected APIs for auto populating regulated forms, collaborated with front-end colleagues on API contracts, developed CRUD functionality, integrated with document services, and ensured compliance with industry-standard EDI messages.",
+        "Led the migration of key application components from AngularJS to Angular 16, enhancing performance, functionality, and reducing maintenance cost.",
+        "Mentored in Angular best practices within an enterprise environment."
+      ]
+    },
+    {
+      "name": "Traiforce Group LLC",
+      "company": "Traiforce Group LLC",
+      "position": "Independent Contractor",
+      "url": "mailto:stephen@traiforos.com",
+      "startDate": "2020-11-23",
+      "endDate": "2022-06-22",
+      "highlights": [
+        "Led the design and implementation of a Kafka-based Backend For Frontend (BFF) architecture using single-spa, ensuring scalable, modular, and responsive systems.",
+        "Extended logging with DataDog to enable tracing between micro-services for improved metrics and debugging.",
+        "Led the migration of a front-end applications from Angular 14 to React. Aligning with the parent company’s tech stack for better interoperability.",
+        "Collaborated with 10+ global teams (Colorado, Chennai, Moldova) via the Spotify Model aligning teams with our architecture and product goals.",
+        "Maintained many React applications, creating diagrams and documents for seamless handoff and collaboration.",
+        "Implemented micro front-end applications, collaborating with colleagues to enhance system modularity.",
+        "Led contract-based development across the application stack for rapid iteration and deployment.",
+        "Integrated real-time scale data using PrintNode's web-socket for a scan-to-ship application."
+      ]
+    },
+    {
+      "name": "Triverus LLC",
+      "company": "Triverus LLC",
+      "position": "Associate Consultant",
+      "url": "https://triverusconsulting.com",
+      "startDate": "2019-03-01",
+      "endDate": "2020-06-30",
+      "highlights": [
+        "Engineered a configurable process dashboard using MVVM, integrated with Active Directory.",
+        "Rearchitected a React.JS/.Net Core Entity Framework-based healthcare platform, resulting in a 50% reduction in page load time by separating database and business logic layers, allowing for metrics and telemetry to be introduced.",
+        "Extended an established Java-based near real-time reporting architecture for an eLearning platform deployed in AWS. Integrated serverless, microservice, and monolithic application components to support xAPI launch verbs. Defined future requirements to support the emerging CMI5 specification.",
+        "Automated 40+ business processes for a state government agency, reducing execution time from 3 months to 2 minutes by collaborating with government statisticians.",
+        "Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles."
+      ]
+    },
+    {
+      "name": "Kuebix LLC",
+      "company": "Kuebix LLC",
+      "position": "Software Engineer",
+      "url": "https://kuebix.com",
+      "startDate": "2017-10-09",
+      "endDate": "2019-02-28",
+      "highlights": [
+        "Developed Salesforce API extension taking advantage of remote action calls, resulting in cost reduction and development acceleration. Embedding client-side applications; utilizing Knockout JS, Angular JS, and Angular 8 with state management, leveraged ngrok to debug production environments.",
+        "Implemented batch processing for bulk shipping rate quotes within Java Spring Boot environment, merging data from multiple sources. Syncing results into Salesforce while respecting strict API limitations.",
+        "SCRUM master, mitigating impediments to story completion, ensuring stakeholder feedback is incorporated appropriately and signed off. Advocated for teammates, identifying strengths and weaknesses for task assignment, leading to increase of team productivity and cohesion. Analyzed sprint metrics to ensure appropriate client expectations, ensuring risk identification and mitigation."
+      ]
+    },
+    {
+      "name": "WorkHuman (Formerly Globoforce)",
+      "company": "WorkHuman (Formerly Globoforce)",
+      "position": "Systems ERP Intern",
+      "url": "https://www.workhuman.com",
+      "startDate": "2017-01-01",
+      "endDate": "2017-01-31",
+      "highlights": [
+        "Demonstrated quick self-directed learning by reading over 500 pages of documentation to build a development environment.",
+        "Applied numerous operating system concepts and learned the intricacies of Epicor Architecture, including its limitations.",
+        "Executed and documented the creation of a local Epicor development environment running on a virtual machine.",
+        "Gained comprehensive knowledge in various aspects of Windows Server 2012, configuring application pools for SQL instances and application servers."
+      ]
+    },
+    {
+      "name": "WorkHuman (Formerly Globoforce)",
+      "company": "WorkHuman (Formerly Globoforce)",
+      "position": "Fulfillment Administrator",
+      "url": "https://www.workhuman.com",
+      "startDate": "2013-06-01",
+      "endDate": "2017-10-31",
+      "highlights": [
+        "Introduced new technologies to scale our processes through cross-organizational collaboration. Implemented FTP automation, SQL generating templates, MS Office Macros, and PGP Encryption using PGP Desktop.",
+        "Vetted vendors to identify industrial printing equipment and software, resulting in a savings of over $100,000.",
+        "Developed macros/tools using VBA, Scala, and SQL syntax which reduced turnaround time by 60X. Streamlined MS Excel and MS Word transformation, enabling the team to focus on more critical tasks to ensure a great customer experience."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Worcester State University",
+      "url": "https://www.worcester.edu/",
+      "area": "Computer Science: Software Development",
+      "studyType": "Bachelors of Science",
+      "score": "3.4",
+      "courses": [
+        "Database security",
+        "Application development",
+        "Cloud computing",
+        "Distributed Systems",
+        "Data mining"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Fullstack Engineer",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "C#",
+        "Java",
+        "Spring Boot",
+        ".Net Core",
+        "React",
+        "Angular",
+        "Vue",
+        "Kuebernetes",
+        "Vulnerbility scaners: Snyk",
+        "OWASP"
+      ]
+    },
+    {
+      "name": "Component Libraries",
+      "level": "",
+      "keywords": [
+        "Material UI",
+        "Dev Extreme",
+        "Prime NG"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "",
+      "keywords": [
+        "Pipelines",
+        "Team Foundation Server"
+      ]
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": [
+        "Parameter Store",
+        "EC2",
+        "Route 53",
+        "S3",
+        "SQS",
+        "Lambda",
+        "Kinesis"
+      ]
+    },
+    {
+      "name": "Interactive Developer Environment(s)",
+      "level": "",
+      "keywords": [
+        "VS Code",
+        "InteliJ",
+        "Cursor"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "",
+      "keywords": [
+        "JPA",
+        "Entity Framework .Net Core",
+        "Mongo",
+        "PostgreSQL",
+        "MS SQL",
+        "MYSQL"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "",
+      "keywords": [
+        "Linux",
+        "Windows",
+        "MacOS"
+      ]
+    },
+    {
+      "name": "IoT",
+      "level": "",
+      "keywords": [
+        "openHAB",
+        "Home Assistant"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Coffee",
+      "keywords": [
+        "Espresso",
+        "Cappuccino",
+        "Super Automatic Espresso Machine",
+        "Pergamino"
+      ]
+    },
+    {
+      "name": "Cats",
+      "keywords": [
+        "Sweet Pea Kitty Baby Princess",
+        "Halo",
+        "Lily",
+        "Archie",
+        "Cleo",
+        "Sterling"
+      ]
+    },
+    {
+      "name": "Doggos",
+      "keywords": [
+        "Alaska Floof",
+        "Miss. Kye",
+        "Logi Bear"
+      ]
+    },
+    {
+      "name": "Gardening",
+      "keywords": [
+        "Roses",
+        "Dalias",
+        "Peonies",
+        "Berries",
+        "General Landscaping",
+        "Citrus"
+      ]
+    },
+    {
+      "name": "Cooking",
+      "keywords": [
+        "Shepards pie",
+        "French techiques",
+        "Pastichio",
+        "Chicken egg lemon soup",
+        "Stock",
+        "Homemade pasta sauce",
+        "Roasts",
+        "Alton Brown (My hero)"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Legend of Zelda",
+        "Age of Mythology",
+        "Don't Starve Together",
+        "Guild Wars 2",
+        "No Mans Sky",
+        "Mario Party",
+        "Minecraft"
+      ]
+    },
+    {
+      "name": "Comics",
+      "keywords": [
+        "Wonder Woman Historia",
+        "X-Men",
+        "Batman"
+      ]
+    },
+    {
+      "name": "Shows",
+      "keywords": [
+        "Fringe",
+        "Avatar the last airbender",
+        "Legend of Kora",
+        "Travelers",
+        "Lost",
+        "Severance",
+        "Dark Matter"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Flock",
+      "description": "A Instagram to Bluesky Migration Application - Birds of a Feather flock together",
+      "keywords": [
+        "Angular 20",
+        "Typescript",
+        "Node.js",
+        "File I/O",
+        "ASCII Encoding",
+        "Bluesky",
+        "Instagram",
+        "Migration",
+        "Electron",
+        "MacOS",
+        "Linux",
+        "Windows",
+        "AtProto",
+        "CI/CD Pipeline"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://github.com/CommunityStream-io/flock"
+    },
+    {
+      "name": "Traiforce Resume",
+      "description": "Accessible Angular Material 3 branded personal resume site with logo, and resume.json datasource.",
+      "keywords": [
+        "Frontend",
+        "Angular",
+        "Material 3",
+        "Accessibility",
+        "JSON Resume",
+        "RXJS"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://github.com/straiforos/Traiforce-Resume"
+    },
+    {
+      "name": "Instagram to Bluesky",
+      "description": "Migration tool from Instagram export to bluesky, adding; Video, emoji support, post splitting for lossless data migration, linting for consistency, unit test with 85% coverage, codcov integration, CI pipeline.",
+      "keywords": [
+        "Typescript",
+        "Node.js",
+        "File I/O",
+        "ASCII Encoding",
+        "Bluesky",
+        "Instagram",
+        "Migration",
+        "Strategy pattern",
+        "Video upload",
+        "Emoji support",
+        "TDD",
+        "CodeCov",
+        "CI/CD Pipeline"
+      ],
+      "role": [
+        "Contributor"
+      ],
+      "url": "https://github.com/marcomaroni-github/instagram-to-bluesky"
+    },
+    {
+      "name": "Kathys' Getaway Vacation",
+      "description": "HATEOAS Focused Paging and Sorting Rental API/UI Implementation",
+      "keywords": [
+        "Interface first development",
+        "Open API",
+        "Spring Boot",
+        "Angular application",
+        "Java 17",
+        "Mapstruct",
+        "Lombok",
+        "PostgreSQL",
+        "JPA",
+        "Formula",
+        "ColumnTransformer",
+        "GitLab",
+        "Sentry",
+        "Gitpod.io"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "entity": "Traiforce Group LLC",
+      "url": "https://gitlab.com/traiforce-group-development-team/kathysgetaway",
+      "type": "Web application"
+    },
+    {
+      "name": "Open API Rental API",
+      "description": "HATEOAS Focused Paging and Sorting Rental API",
+      "keywords": [
+        "Open API",
+        "API First Development",
+        "HATEOAS"
+      ],
+      "url": "https://github.com/straiforos/openapi-rentals-api",
+      "role": [
+        "Creator"
+      ],
+      "entity": "Traiforce Group LLC",
+      "type": "Open API yaml"
+    },
+    {
+      "name": "Defintely Typed Shopify Types",
+      "description": "Type defintion for beta and v1 of the Shopify SDK",
+      "keywords": [
+        "TypeScript",
+        "Shopify",
+        "Shopify SDK"
+      ],
+      "url": "https://github.com/straiforos/DefinitelyTyped/tree/shopify-buy-v1/types/shopify-buy",
+      "role": [
+        "Contributor"
+      ],
+      "entity": "DefinitelyTyped",
+      "type": "TypeScript Types"
+    }
+  ]
+}

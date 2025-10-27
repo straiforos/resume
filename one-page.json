@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Stephen G. Traiforos",
+    "label": "Fullstack Software Engineer",
+    "email": "stephen@traiforos.com",
+    "phone": "(508) 494-5048",
+    "summary": "Passionate full stack engineer seeking a highly collaborative team environment with a variety of architectures and technical challenges. Self driven developer with a proven track record of providing innovative solutions while leading by example through a thoughtful understanding of the customer experience, business priorities, and market opportunity.",
+    "location": {
+      "city": "Roxbury",
+      "region": "Massachusetts"
+    }
+  },
+  "work": [
+    {
+      "name": "Nymbl Systems",
+      "company": "Nymbl Systems",
+      "position": "Senior Software Engineer",
+      "startDate": "2022-06-22",
+      "endDate": "2025-01-29",
+      "highlights": [
+        "Led the migration of key application components from AngularJS to Angular 16",
+        "Collaborated on establishing code style and standards for a multi-module TypeScript application",
+        "Mentored in Angular best practices within an enterprise environment",
+        "Designed and implemented Java lambda PDF generator for AI medical documentation",
+        "Maintained and created PDF autopopulation for billing and medical necessity claims in Spring Boot with validation and error handling",
+        "Directed a team of frontend engineers, enhancing architecture and functionality, while leveraging team strengths and effectively allocating resources"
+      ]
+    },
+    {
+      "name": "Traiforce Group LLC",
+      "company": "Traiforce Group LLC",
+      "position": "Founder, Independent contractor",
+      "startDate": "2020-11-23",
+      "endDate": "2022-06-22",
+      "highlights": [
+        "Maintained various React applications, generated diagrams and documents for cross pollination and handoff",
+        "Guided and learned with others, utilizing React ecosystem experience, enabling others to do their best work",
+        "Collaborated with colleagues to implement micro frontend applications",
+        "Spanned the application and platform stack to guide contract based development for rapid iteration",
+        "Member of an agile team supporting major software platform functionality, working as an individual contributor"
+      ]
+    },
+    {
+      "name": "Triverus Consulting LLC",
+      "company": "Triverus Consulting LLC",
+      "position": "Associate Consultant, Software Engineer",
+      "startDate": "2019-03-01",
+      "endDate": "2020-06-30",
+      "highlights": [
+        "Member of an agile team supporting major software projects for clients, working as an individual contributor and fulfilling team lead roles",
+        "Extended an established Java based near real time reporting architecture for ELearning platform deployed in AWS. Integrated serverless, microservice and monolithic application components to support xAPI launch verbs",
+        "Optimized React.JS/.Net Core Entity Framework based healthcare platform resulting in 50% page load time reduction through the separation of database and business logic layers",
+        "Automated 40+ business processes into an enterprise class application for a state government agency. Collaborated with government statisticians, reducing average process execution time from 3 months to 2 minutes"
+      ]
+    },
+    {
+      "name": "Kuebix LLC",
+      "company": "Kuebix LLC",
+      "position": "Software Engineer",
+      "startDate": "2017-10-09",
+      "endDate": "2019-02-28",
+      "highlights": [
+        "Implemented batch processing for bulk shipping rate quotes within Java Spring Boot environment",
+        "Developed Salesforce API extension taking advantage of remote action calls",
+        "SCRUM master, mitigating impediments to story completion, ensuring stakeholder feedback is incorporated appropriately"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Worcester State University",
+      "area": "BS Computer Science; Software Engineering, Security focus",
+      "studyType": "Bachelors of Science",
+      "startDate": "2015-01",
+      "endDate": "2017-05"
+    },
+    {
+      "institution": "University of Massachusetts",
+      "area": "",
+      "studyType": "",
+      "startDate": "2014-01",
+      "endDate": "2015-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Azure",
+      "keywords": [
+        "Pipelines",
+        "Team Foundation Server"
+      ]
+    },
+    {
+      "name": "AWS",
+      "keywords": [
+        "S3",
+        "Kinesis",
+        "SQS",
+        "Lambda",
+        "Parameter Store"
+      ]
+    },
+    {
+      "name": "IDEs",
+      "keywords": [
+        "VS Code",
+        "IntelliJ",
+        "Visual Studio"
+      ]
+    },
+    {
+      "name": "Object-Oriented/Functional",
+      "keywords": [
+        "Java",
+        "JavaScript/TypeScript",
+        "C#"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "keywords": [
+        "Relational",
+        "No SQL"
+      ]
+    },
+    {
+      "name": "Front End",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "React JS",
+        "Angular 16"
+      ]
+    },
+    {
+      "name": "Back End",
+      "keywords": [
+        "Spring Boot",
+        "Kubernetes"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": [
+        "Docker",
+        "Windows",
+        "Linux"
+      ]
+    }
+  ]
+}
+

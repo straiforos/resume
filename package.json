@@ -6,7 +6,16 @@
   "repository": "https://github.com/straiforos/resume.git",
   "author": "straiforos <stephen@traiforos.com>",
   "license": "MIT",
+  "scripts": {
+    "generate": "resume export --theme ./theme resume.pdf",
+    "generate:whoop": "resume export --theme ./theme output/whoop-resume.pdf --resume whoop-resume.json",
+    "generate:onepage": "resume export --theme ./theme output/one-page.pdf --resume one-page.json"
+  },
   "dependencies": {
     "resume-cli": "^3.0.6"
+  },
+  "devDependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "jsonresume-theme-eloquent": "^5.0.0"
   }
 }
