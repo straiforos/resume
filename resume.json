@@ -324,6 +324,31 @@
   ],
   "projects": [
     {
+      "name": "Mimir",
+      "description": "An open-source, AI-driven GRC platform that automates security questionnaire assessments. Engineered a full-stack RAG pipeline with vector search to analyze evidence documents and answer compliance controls across frameworks like SOC II and ISO 27001.",
+      "keywords": [
+        "Next.js",
+        "TypeScript",
+        "Supabase",
+        "PostgreSQL",
+        "pgvector",
+        "Edge Functions",
+        "Deno",
+        "Kong API Gateway",
+        "DigitalOcean App Platform",
+        "Pulumi",
+        "RAG Pipeline",
+        "LLM Orchestration",
+        "CI/CD"
+      ],
+      "role": [
+        "Creator",
+        "Sole Architect & Engineer"
+      ],
+      "url": "https://github.com/straiforos/mimir",
+      "type": "Web application"
+    },
+    {
       "name": "Flock",
       "description": "A Instagram to Bluesky Migration Application - Birds of a Feather flock together",
       "keywords": [
