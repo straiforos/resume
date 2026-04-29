@@ -349,6 +349,31 @@
       "type": "Web application"
     },
     {
+      "name": "Fort Hill Bar & Grill",
+      "description": "A modern, full-featured restaurant web application for Fort Hill Bar & Grill. The site includes dynamic menus (food, drinks, brunch), an events calendar, catering information, and full internationalization for English and Spanish. Features a secure admin management backend for updating business hours (for weather or private events), editing all site translations via an override backend, and managing all text content. Admins can upload and update hero page videos and carousel images for different sections, ensuring the site remains fresh and relevant.",
+      "keywords": [
+        "Web Application",
+        "Restaurant Site",
+        "Menus",
+        "Events",
+        "Catering",
+        "Internationalization",
+        "i18n",
+        "Admin Backend",
+        "Editable Translations",
+        "Video Upload",
+        "Carousel Image Upload",
+        "English",
+        "Spanish"
+      ],
+      "role": [
+        "Creator",
+        "Fullstack Engineer"
+      ],
+      "url": "https://forthillbarandgrill.com/",
+      "type": "Web application"
+    },
+    {
       "name": "Flock",
       "description": "A Instagram to Bluesky Migration Application - Birds of a Feather flock together",
       "keywords": [
