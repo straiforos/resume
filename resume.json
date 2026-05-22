@@ -39,6 +39,7 @@
       "startDate": "2022-06-22",
       "endDate": "2025-01-29",
       "highlights": [
+        "Championed a cross-functional delivery reset for patient-equipment logistics after many missed sprints. Facilitated refinement, aligned engineers and product on workflows and stories, swarmed execution, and used spikes with clear outcomes so the team could architect deliberately and ship together with quality.",
         "To scale partner onboarding without duplicating integration code, I led a TypeScript architecture in Node.js on AWS Lambda that established reusable contracts and secure event-driven boundaries, enabling faster and safer delivery of new integrations.",
         "When the organization needed a long-term integration strategy, I partnered with the Principal Architect to implement an EventBridge vendor connector model using Lambda Layers and Terraform, reducing marginal onboarding effort per vendor through a repeatable N+1 deployment pattern.",
         "To secure inbound vendor communications, I implemented Cognito-based client-secret authentication and tenant-scoped credential configurations, ensuring authenticated access and safe retrieval of external platform data for webhook callers.",
