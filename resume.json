@@ -194,7 +194,9 @@
         "S3",
         "SQS",
         "Lambda",
-        "Kinesis"
+        "EventBridge",
+        "Kinesis",
+        "Terraform"
       ]
     },
     {
