@@ -354,6 +354,83 @@
       "type": "Web application"
     },
     {
+      "name": "File Orbit",
+      "description": "fileorbit.cloud p2p storage protocol and application for private data sharing and synchronized copies across trusted homes.",
+      "keywords": [
+        "Cloud Platform",
+        "Rust",
+        "AT Protocol",
+        "OpenID Connect",
+        "Grafana",
+        "Gatus",
+        "IPFS",
+        "Identity",
+        "Distributed Systems",
+        "Tranquil-PDS",
+        "Pulumi",
+        "DigitialOcean"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://fileorbit.cloud",
+      "type": "Distributed storage protocol and application"
+    },
+    {
+      "name": "grafana-gatus-bridge",
+      "description": "Portable Grafana Alerting to Gatus probe signal bridge (ProbeStore + HTTP).",
+      "keywords": [
+        "Rust",
+        "Grafana Alerting",
+        "Gatus",
+        "HTTP",
+        "Bridge",
+        "Observability"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://crates.io/crates/grafana-gatus-bridge",
+      "entity": "File Orbit",
+      "type": "Rust crate"
+    },
+    {
+      "name": "atproto-oidc-bridge",
+      "description": "Portable AT Protocol to OpenID Connect bridge (AuthorizeGate + AtprotoAuthPort).",
+      "keywords": [
+        "Rust",
+        "AT Protocol",
+        "OpenID Connect",
+        "OIDC",
+        "Authentication",
+        "Bridge"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://crates.io/crates/atproto-oidc-bridge",
+      "entity": "File Orbit",
+      "type": "Rust crate"
+    },
+    {
+      "name": "substratum.cloud",
+      "description": "Distributed storage protocol and application for private family storage with synchronized copies in trusted homes.",
+      "keywords": [
+        "AT Protocol",
+        "DID",
+        "IPFS",
+        "Identity",
+        "Infrastructure",
+        "Distributed Systems"
+      ],
+      "role": [
+        "Creator"
+      ],
+      "url": "https://tangled.org/straiforos.tngl.sh/substratum.cloud",
+      "entity": "File Orbit",
+      "type": "Distributed storage protocol and application"
+    },
+    {
       "name": "Fort Hill Bar & Grill",
       "description": "A modern, full-featured restaurant web application for Fort Hill Bar & Grill. The site includes dynamic menus (food, drinks, brunch), an events calendar, catering information, and full internationalization for English and Spanish. Features a secure admin management backend for updating business hours (for weather or private events), editing all site translations via an override backend, and managing all text content. Admins can upload and update hero page videos and carousel images for different sections, ensuring the site remains fresh and relevant.",
       "keywords": [
