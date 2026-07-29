@@ -27,6 +27,11 @@
         "network": "Medium",
         "username": "triforce",
         "url": "https://triforce.medium.com"
+      },
+      {
+        "network": "Tangled",
+        "username": "straiforos.tngl.sh",
+        "url": "https://tangled.org/straiforos.tngl.sh"
       }
     ]
   },
